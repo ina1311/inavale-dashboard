@@ -1,0 +1,63 @@
+Termen,Termen în engleză,Domeniu,Definiție,Formulă / exemplu
+Prime brute subscrise,Gross Written Premium (GWP),Asigurări – business,"Valoarea totală a polițelor vândute într-o perioadă, înainte de reasigurare. Arată mărimea business-ului.",Exemplu: o poliță auto de 600 € vândută în martie adaugă 600 € la GWP-ul lunii martie.
+Prime nete câștigate,Net Earned Premium (NEP),Asigurări – business,"Partea din prime care corespunde perioadei analizate, după ce se scade partea cedată reasigurătorilor. Este venitul „real” al perioadei.",O poliță anuală de 1.200 € vândută pe 1 ianuarie „câștigă” 100 € în fiecare lună.
+Reasigurare,Reinsurance,Asigurări – business,"Asigurarea asigurătorului: o parte din riscuri și din prime se cedează altei companii, care preia o parte din daunele mari.",InaVale cedează circa 6% din prime reasigurătorilor.
+Linie de business,Line of business,Asigurări – business,"Categoria de produse de asigurare: auto, locuințe, viață, sănătate, riscuri pentru firme.",–
+Canal de distribuție,Distribution channel,Asigurări – business,"Modul în care se vând polițele: agenți, brokeri, online direct sau prin bănci.",–
+Bancassurance,Bancassurance,Asigurări – business,"Vânzarea asigurărilor prin rețeaua unei bănci partenere, de exemplu la acordarea unui credit.",–
+Broker,Broker,Asigurări – business,Intermediar independent care reprezintă clientul și caută oferta potrivită la mai mulți asigurători.,–
+Polițe active,Policies in force,Asigurări – business,Numărul de polițe valabile la un moment dat.,–
+Rata de pierdere a polițelor,Lapse rate,Asigurări – business,Procentul de polițe care nu se reînnoiesc sau sunt anulate.,Polițe pierdute / polițe active
+Rata de retenție,Retention rate,Asigurări – business,Procentul de clienți păstrați; complementul ratei de pierdere.,1 − rata de pierdere
+Subscriere,Underwriting,Asigurări – business,Procesul prin care asigurătorul evaluează riscul și stabilește prețul poliței.,–
+Daune întâmplate,Claims incurred,Daune,Costul daunelor dintr-o perioadă: sumele plătite plus modificarea rezervelor pentru daunele încă nesoluționate.,Plăți + (rezerve la final − rezerve la început)
+Rata daunei,Loss ratio,Daune,Cât din venitul din prime se duce pe daune.,Daune întâmplate / NEP. Exemplu: 700 € daune la 1.000 € NEP = 70%
+Frecvența daunelor,Claims frequency,Daune,Cât de des apar daunele raportat la numărul de polițe.,Număr de daune / polițe active
+Severitatea daunelor,Claims severity,Daune,Valoarea medie a unei daune.,Total daune / număr de daune
+Eveniment catastrofal,Catastrophe (CAT) event,Daune,"Eveniment natural sau accidental care produce foarte multe daune simultan: furtuni, uragane, inundații, cutremure.",–
+Rezerve de daune,Claims reserves,Daune,"Bani puși deoparte pentru daunele întâmplate, dar încă neplătite.",–
+Timp de soluționare,Days to settle,Daune,Zilele de la anunțarea daunei până la plata sau închiderea ei. Influențează direct satisfacția clienților.,–
+Fraudă suspectată,Suspected fraud,Daune,Daună marcată pentru verificare suplimentară deoarece prezintă semnale de fraudă.,–
+Rata cheltuielilor,Expense ratio,Financiar,Cât costă funcționarea companiei raportat la prime.,(Costuri de achiziție + cheltuieli administrative) / NEP
+Combined ratio,Combined ratio,Financiar,"Cel mai important indicator din asigurări. Sub 100% înseamnă că activitatea de asigurare aduce profit; peste 100% înseamnă pierdere, acoperită eventual din investiții.",Rata daunei + rata cheltuielilor. Exemplu: 68% + 25% = 93%
+Costuri de achiziție,Acquisition costs,Financiar,Costurile vânzării polițelor: comisioane pentru intermediari și marketing.,–
+Rezultat tehnic,Underwriting result,Financiar,"Profitul din activitatea de asigurare, fără investiții.",NEP − daune − cheltuieli
+Profit net,Net income,Financiar,Profitul după toate cheltuielile și impozite.,–
+Buget vs. realizat,Budget vs. actual,Financiar,Compararea rezultatelor efective cu cele planificate.,–
+Abatere,Variance,Financiar,"Diferența dintre realizat și buget (sau față de anul anterior), în valoare absolută sau procentuală.",Realizat − buget
+Curs valutar,Exchange rate (FX),Financiar,"Prețul unei monede exprimat în altă monedă. Pentru un grup global, schimbă valoarea în EUR a veniturilor locale.",–
+Efect valutar,FX effect,Financiar,"Partea din creșterea sau scăderea raportată în EUR care vine doar din modificarea cursului, nu din business.",–
+Capitaluri proprii,Shareholders' equity,Investitori,Valoarea care aparține acționarilor: active minus datorii.,–
+Rentabilitatea capitalurilor proprii,Return on equity (ROE),Investitori,Cât profit produce compania pentru fiecare euro al acționarilor.,Profit net / capitaluri proprii
+Profit pe acțiune,Earnings per share (EPS),Investitori,Profitul net împărțit la numărul de acțiuni.,Profit net / acțiuni în circulație
+Dividend pe acțiune,Dividend per share (DPS),Investitori,Suma plătită acționarilor pentru fiecare acțiune.,–
+Rata de distribuire,Payout ratio,Investitori,Ce parte din profit se plătește ca dividende.,Dividende / profit net
+Capitalizare bursieră,Market capitalisation,Investitori,Valoarea de piață a companiei.,Preț acțiune × acțiuni în circulație
+Răscumpărare de acțiuni,Share buyback,Investitori,"Compania își cumpără propriile acțiuni, reducând numărul lor și crescând EPS-ul.",–
+Rata de solvabilitate,Solvency II ratio,Risc și reglementare,Cât capital are compania față de capitalul minim cerut de reglementarea europeană Solvency II. Sub 100% e interzis; asigurătorii mari țintesc 150–220%.,Capital disponibil / capital de solvabilitate cerut (SCR)
+Solvency II,Solvency II,Risc și reglementare,Directiva europeană care stabilește cât capital trebuie să dețină asigurătorii în funcție de riscurile lor.,–
+IFRS 17,IFRS 17,Risc și reglementare,"Standardul internațional de contabilitate pentru contractele de asigurare, în vigoare din 2023. Datele din acest set folosesc o versiune simplificată.",–
+Câștig/pierdere nerealizată,Unrealised gain/loss,Investiții,"Modificarea valorii unui activ care nu a fost încă vândut. De exemplu, obligațiunile pierd valoare când dobânzile cresc (2022).",–
+Randament,Yield,Investiții,Venitul anual al unei investiții raportat la valoarea ei.,Venit anual / valoare de piață
+Clasă de active,Asset class,Investiții,"Grup de investiții similare: obligațiuni, acțiuni, imobiliare, numerar.",–
+Număr de angajați,Headcount,Resurse umane,Numărul de angajați la o anumită dată.,–
+Rata plecărilor,Attrition / turnover rate,Resurse umane,Procentul de angajați care pleacă într-o perioadă.,Plecări / număr mediu de angajați
+Plecări voluntare,Voluntary attrition,Resurse umane,Plecări la inițiativa angajatului (demisii). Semnal important despre climatul intern.,–
+Engagement,Employee engagement,Resurse umane,Gradul de implicare și atașament al angajaților față de companie și munca lor.,Scor 0–100 din sondaj
+eNPS,Employee Net Promoter Score,Resurse umane,Cât de mult și-ar recomanda angajații compania ca loc de muncă. Variază între −100 și +100.,% promotori (9–10) − % detractori (0–6)
+Timp de angajare,Time to hire,Resurse umane,Zilele necesare pentru ocuparea unui post.,–
+Pâlnie de recrutare,Recruitment funnel,Resurse umane,Etapele succesive ale recrutării: candidaturi → preselecție → interviuri → oferte → angajări. La fiecare pas rămân mai puțini candidați.,–
+Diferență salarială de gen,Gender pay gap,Resurse umane,"Diferența procentuală dintre salariile medii ale femeilor și bărbaților, ideal comparată la același nivel și rol.",(Salariu mediu B − salariu mediu F) / salariu mediu B
+NPS clienți,Net Promoter Score,Clienți,Cât de mult și-ar recomanda clienții asigurătorul.,% promotori − % detractori
+KPI,Key Performance Indicator,Analiză de date,Indicator-cheie de performanță: o cifră aleasă pentru a urmări dacă un obiectiv se atinge.,–
+Țintă,Target,Analiză de date,Valoarea pe care compania vrea să o atingă pentru un KPI.,–
+Tabel de fapte,Fact table,Analiză de date,"Tabel cu evenimente măsurabile (vânzări, daune, angajări); are multe rânduri și coloane numerice.",Exemplu: Daune
+Tabel de dimensiuni,Dimension table,Analiză de date,"Tabel care descrie contextul faptelor: când, unde, ce, cine.",Exemplu: Tari
+Schemă stea,Star schema,Analiză de date,"Model de date cu tabele de fapte în centru, legate de dimensiuni comune.",–
+Granularitate,Grain,Analiză de date,Ce reprezintă un rând dintr-un tabel. Decide ce se poate calcula din el.,Activitate_lunara: lună × țară × linie × canal
+Detaliere,Drill-down,Analiză de date,"Coborârea de la o cifră agregată la componentele ei, de exemplu de la grup la regiune, țară, linie.",–
+Cohortă,Cohort,Analiză de date,"Grup de elemente cu un punct de plecare comun, urmărit în timp, de exemplu angajații angajați în 2022.",–
+Analiză Pareto,Pareto analysis,Analiză de date,Identificarea puținelor elemente care produc majoritatea efectului (regula 80/20).,–
+Rată anuală compusă de creștere,CAGR,Analiză de date,Creșterea medie anuală pe mai mulți ani.,(Valoare finală / valoare inițială)^(1/ani) − 1
+Anualizare,Annualisation,Analiză de date,"Transformarea unei valori trimestriale sau lunare într-una anuală, pentru comparație.",Valoare trimestrială × 4
+Date sintetice,Synthetic data,Analiză de date,"Date generate artificial, realiste statistic, dar care nu descriu persoane sau companii reale.",Tot acest set de date

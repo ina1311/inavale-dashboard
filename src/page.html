@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="ro">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>InaVale Assurance – dashboard de analiză</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap"
+      rel="stylesheet"
+    />
+    <!-- STYLES -->
+  </head>
+  <body>
+    <header class="top">
+      <div class="row1">
+        <div class="brand">
+          <b>InaVale</b><span data-i="brand">Assurance Group · dashboard de analiză</span>
+        </div>
+        <div class="navwrap" id="navwrap">
+          <nav class="domains" id="domains" aria-label="Domenii" data-ia="navDomains"></nav>
+          <!-- the arrows must stay right next to the tags (no spaces inside the buttons) -->
+          <!-- prettier-ignore -->
+          <button type="button" class="navarr l" id="navPrev" aria-label="Domeniile anterioare" data-ia="navPrev" tabindex="-1">‹</button>
+          <!-- prettier-ignore -->
+          <button type="button" class="navarr r" id="navNext" aria-label="Mai multe domenii" data-ia="navNext" tabindex="-1">›</button>
+        </div>
+        <div class="tools">
+          <button
+            class="iconbtn"
+            id="chatBtn"
+            aria-label="Arată sau ascunde chat-ul"
+            data-ia="chatBtn"
+          >
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.8"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path d="M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12z" /></svg
+            ><span class="lbl" data-i="chatLbl">Chat</span>
+          </button>
+          <button
+            class="iconbtn"
+            id="glossBtn"
+            aria-label="Deschide glosarul general"
+            data-ia="glossBtn"
+          >
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.8"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z" />
+              <path d="M4 21V5M9 7h6" /></svg
+            ><span class="lbl" data-i="glossLbl">Glosar</span>
+          </button>
+          <button class="iconbtn" id="themeBtn" aria-label="Schimbă tema">
+            <svg
+              id="themeIco"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.8"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            ></svg
+            ><span class="lbl" id="themeLbl">Tema</span>
+          </button>
+          <div class="langsw" id="langsw" role="group" aria-label="Limba" data-ia="langGroup">
+            <button type="button" data-lang="ro" lang="ro" aria-label="Română" aria-pressed="true">
+              RO</button
+            ><button
+              type="button"
+              data-lang="en"
+              lang="en"
+              aria-label="English"
+              aria-pressed="false"
+            >
+              EN
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="row2">
+        <div
+          class="depth"
+          id="depth"
+          role="tablist"
+          aria-label="Profunzimea analizei"
+          data-ia="depth"
+        ></div>
+        <button
+          type="button"
+          class="fbtn"
+          id="fbtn"
+          aria-expanded="false"
+          aria-controls="filters"
+        ></button>
+        <div class="filters" id="filters"></div>
+      </div>
+    </header>
+    <div class="mtip" id="mtip" hidden>
+      <p data-i="mtip">
+        <b>Sfat:</b> dashboard-ul e gândit pentru ecrane mari. Pe laptop sau desktop vezi ferestrele
+        alăturat, iar graficele și tabelele se citesc mai ușor. Trimite-ți linkul ție sau unui
+        coleg, ca să-l deschideți acolo.
+      </p>
+      <div class="mtip-a">
+        <button type="button" id="mtipShare" data-i="mtipShare">Trimite linkul</button
+        ><span id="mtipMsg" aria-live="polite"></span>
+      </div>
+      <button type="button" class="mtip-x" id="mtipX" aria-label="Închide sfatul" data-ia="mtipX">
+        ×
+      </button>
+    </div>
+    <div class="layout" id="layout">
+      <main id="main"></main>
+      <aside class="chat" id="chat" aria-label="Chat pe date" data-ia="chatAside">
+        <div
+          class="grab"
+          id="grab"
+          role="button"
+          tabindex="0"
+          aria-label="Trage pentru a mări sau micșora chat-ul"
+          data-ia="grab"
+        >
+          <span></span>
+        </div>
+        <div class="ch">
+          <div class="t">
+            <h2 data-i="chatTitle">Întreabă despre date</h2>
+            <button class="xb" id="chatClear" data-i="chatClear">Golește</button
+            ><button
+              class="xb"
+              id="chatClose"
+              aria-label="Ascunde chat-ul"
+              data-ia="chatCloseA"
+              data-i="chatClose"
+            >
+              Ascunde
+            </button>
+          </div>
+          <div class="ctx" id="chatCtx"></div>
+        </div>
+        <div class="msgs" id="msgs" aria-live="polite"></div>
+        <div class="sugg" id="sugg"></div>
+        <form id="chatForm">
+          <textarea
+            id="chatIn"
+            rows="1"
+            placeholder="De exemplu: de ce a crescut rata daunei în 2023?"
+            data-ip="chatPh"
+          ></textarea
+          ><button class="send" id="chatSend" type="submit">Trimite</button>
+        </form>
+      </aside>
+    </div>
+    <footer class="site">
+      <div class="cols" data-i="footCols">
+        <div>
+          <h4>Despre proiect</h4>
+          <p>
+            Un dashboard educațional de analiză a datelor, construit ca un instrument profesionist:
+            6 domenii, 4 layere de profunzime, perioade comparabile, prognoze și scenarii.
+          </p>
+          <p>
+            Scopul lui e să arate cum gândește un analist de date senior, de la „ce s-a întâmplat”
+            până la „ce facem”.
+          </p>
+        </div>
+        <div>
+          <h4>Cum îl folosești</h4>
+          <p>
+            Alege un domeniu în bara de sus, apoi profunzimea analizei. Filtrele apar doar unde se
+            aplică.
+          </p>
+          <p>
+            „?” explică un termen, „Explică” interpretează o fereastră, iar chat-ul răspunde doar
+            din datele InaVale.
+          </p>
+        </div>
+        <div>
+          <h4>Date și metode</h4>
+          <p>
+            InaVale Assurance Group e o companie fictivă: 11 tabele sintetice, 2021–2025, sume în
+            EUR. Contabilitatea de asigurări și solvabilitatea sunt simplificate; daunele
+            individuale sunt un eșantion de 25.000 de dosare.
+          </p>
+          <p><button type="button" class="lk" data-go="dat">Vezi tabul Despre date</button></p>
+        </div>
+        <div>
+          <h4>Despre Ina</h4>
+          <p>
+            Concepția și analiza: Ina, analist de date. Numele companiei fictive, InaVale, vine de
+            la ea.
+          </p>
+        </div>
+      </div>
+      <p class="fine" data-i="footFine">
+        Asistentul AI funcționează în versiunea găzduită în claude.ai: acolo întrebările se trimit
+        către Claude împreună cu cifrele de pe ecran, din contul celui care le pune. Datele sunt
+        sintetice și nu descriu persoane sau companii reale. Versiune: 30 septembrie 2026.
+      </p>
+    </footer>
+    <div class="pop" id="pop" role="tooltip"></div>
+    <button
+      type="button"
+      class="totop"
+      id="totop"
+      aria-label="Înapoi la meniu"
+      data-ia="totopA"
+      data-i="totop"
+    >
+      ↑ Meniu
+    </button>
+    <div class="scrim" id="scrim"></div>
+    <aside
+      class="drawer"
+      id="drawer"
+      aria-label="Glosar general"
+      data-ia="drawer"
+      aria-hidden="true"
+    >
+      <header>
+        <h2 data-i="glossLbl">Glosar</h2>
+        <button
+          class="iconbtn"
+          id="closeDrawer"
+          aria-label="Închide glosarul"
+          data-ia="closeDrawerA"
+          data-i="close"
+        >
+          Închide
+        </button>
+      </header>
+      <div class="search">
+        <input
+          id="gsearch"
+          type="search"
+          placeholder="Caută un termen, de exemplu combined ratio"
+          data-ip="gsearch"
+        />
+        <div class="chips" id="gchips"></div>
+      </div>
+      <div class="list" id="glist"></div>
+    </aside>
+    <!-- CHART_JS -->
+    <!-- SCRIPTS -->
+  </body>
+</html>

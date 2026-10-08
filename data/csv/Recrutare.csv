@@ -1,0 +1,843 @@
+quarter,department,region,applications,screened,interviews,offers_made,offers_accepted,hires,avg_time_to_hire_days,cost_per_hire_eur
+2021Q1,Actuarial & Risk,Asia-Pacific,46,18,10,3,3,3,62,7087
+2021Q1,Actuarial & Risk,Europe,168,61,36,10,9,9,70,6902
+2021Q1,Actuarial & Risk,Latin America,34,13,8,2,2,2,66,7426
+2021Q1,Actuarial & Risk,North America,19,6,4,1,1,1,74,8078
+2021Q1,Claims,Asia-Pacific,330,135,49,13,12,12,48,3978
+2021Q1,Claims,Europe,1004,346,132,46,35,35,44,4783
+2021Q1,Claims,Latin America,195,71,27,7,6,6,47,4674
+2021Q1,Claims,North America,358,126,64,17,14,14,50,4080
+2021Q1,Customer Service,Asia-Pacific,430,220,54,15,13,13,24,4463
+2021Q1,Customer Service,Europe,1638,516,142,38,33,33,26,4907
+2021Q1,Customer Service,Latin America,363,116,28,8,7,7,31,3915
+2021Q1,Customer Service,North America,969,329,90,24,21,21,30,4057
+2021Q1,Executive & Strategy,Asia-Pacific,31,10,3,1,1,1,98,6100
+2021Q1,Finance,Asia-Pacific,121,45,17,5,4,4,46,4202
+2021Q1,Finance,Europe,210,69,28,8,7,7,47,5082
+2021Q1,Finance,Latin America,33,12,4,1,1,1,44,4951
+2021Q1,Finance,North America,222,83,31,8,7,7,38,4268
+2021Q1,HR,Asia-Pacific,29,11,4,1,1,1,42,4161
+2021Q1,HR,Europe,269,94,34,11,8,8,47,4003
+2021Q1,HR,Latin America,51,18,7,2,2,2,48,4193
+2021Q1,HR,North America,209,60,23,7,6,6,41,3497
+2021Q1,IT & Digital,Asia-Pacific,166,49,50,13,11,11,66,7074
+2021Q1,IT & Digital,Europe,336,132,119,31,27,27,53,8866
+2021Q1,IT & Digital,Latin America,85,28,27,8,6,6,58,7164
+2021Q1,IT & Digital,North America,269,85,62,16,16,16,64,6148
+2021Q1,Legal & Compliance,Asia-Pacific,101,36,12,4,3,3,48,4630
+2021Q1,Legal & Compliance,Europe,132,44,19,5,4,4,41,4438
+2021Q1,Legal & Compliance,Latin America,39,8,4,1,1,1,44,4477
+2021Q1,Legal & Compliance,North America,81,32,12,4,3,3,36,3881
+2021Q1,Operations,Asia-Pacific,94,35,12,4,3,3,44,3596
+2021Q1,Operations,Europe,420,166,54,17,13,13,48,3642
+2021Q1,Operations,Latin America,31,11,4,1,1,1,48,4337
+2021Q1,Operations,North America,399,125,48,14,12,12,45,5015
+2021Q1,Sales & Distribution,Asia-Pacific,693,263,80,23,18,18,32,3588
+2021Q1,Sales & Distribution,Europe,1694,618,177,53,43,43,35,4012
+2021Q1,Sales & Distribution,Latin America,652,234,62,19,15,15,33,4529
+2021Q1,Sales & Distribution,North America,833,351,128,34,26,26,34,4237
+2021Q1,Underwriting,Asia-Pacific,220,75,40,9,8,8,49,4014
+2021Q1,Underwriting,Europe,532,163,78,17,15,15,39,5005
+2021Q1,Underwriting,Latin America,131,46,15,5,4,4,44,3965
+2021Q1,Underwriting,North America,514,146,57,19,15,15,52,3951
+2021Q2,Actuarial & Risk,Asia-Pacific,62,19,14,3,3,3,67,6777
+2021Q2,Actuarial & Risk,Europe,137,52,40,10,8,8,65,7309
+2021Q2,Actuarial & Risk,Latin America,55,18,14,4,3,3,68,6716
+2021Q2,Actuarial & Risk,North America,105,31,19,5,5,5,71,8208
+2021Q2,Claims,Asia-Pacific,431,122,50,13,12,12,44,4242
+2021Q2,Claims,Europe,748,269,110,32,26,26,39,4015
+2021Q2,Claims,Latin America,221,78,31,8,7,7,47,4736
+2021Q2,Claims,North America,463,213,78,21,18,18,39,4637
+2021Q2,Customer Service,Asia-Pacific,496,214,54,15,13,13,29,3929
+2021Q2,Customer Service,Europe,1562,551,156,42,39,39,28,3920
+2021Q2,Customer Service,Latin America,395,193,36,11,10,10,29,5069
+2021Q2,Customer Service,North America,1098,336,97,26,25,25,27,4545
+2021Q2,Executive & Strategy,Asia-Pacific,35,10,4,1,1,1,114,8282
+2021Q2,Executive & Strategy,Europe,98,32,13,3,3,3,100,5079
+2021Q2,Executive & Strategy,North America,161,47,17,5,4,4,93,7300
+2021Q2,Finance,Asia-Pacific,19,13,4,1,1,1,42,4890
+2021Q2,Finance,Europe,451,126,54,14,12,12,39,4660
+2021Q2,Finance,Latin America,96,35,10,4,3,3,46,4004
+2021Q2,Finance,North America,287,90,38,9,8,8,42,3754
+2021Q2,HR,Asia-Pacific,28,11,3,1,1,1,45,4426
+2021Q2,HR,Europe,206,67,31,9,7,7,42,3737
+2021Q2,HR,Latin America,30,10,4,1,1,1,45,3853
+2021Q2,HR,North America,146,45,15,5,4,4,45,4453
+2021Q2,IT & Digital,Asia-Pacific,119,50,39,11,10,10,63,7042
+2021Q2,IT & Digital,Europe,355,130,120,35,28,28,71,6644
+2021Q2,IT & Digital,Latin America,79,33,28,8,6,6,69,8043
+2021Q2,IT & Digital,North America,180,74,64,18,15,15,60,6995
+2021Q2,Legal & Compliance,Asia-Pacific,33,11,4,1,1,1,43,3904
+2021Q2,Legal & Compliance,Europe,193,56,23,7,6,6,41,4099
+2021Q2,Legal & Compliance,Latin America,34,11,4,1,1,1,45,4149
+2021Q2,Legal & Compliance,North America,36,10,5,1,1,1,41,4337
+2021Q2,Operations,Asia-Pacific,116,44,14,5,4,4,47,4292
+2021Q2,Operations,Europe,488,144,57,16,14,14,44,4759
+2021Q2,Operations,Latin America,28,11,4,1,1,1,48,4883
+2021Q2,Operations,North America,145,61,19,6,5,5,44,4683
+2021Q2,Sales & Distribution,Asia-Pacific,929,288,85,23,20,20,38,4255
+2021Q2,Sales & Distribution,Europe,1374,646,187,54,49,49,35,3917
+2021Q2,Sales & Distribution,Latin America,527,171,59,14,13,13,28,4871
+2021Q2,Sales & Distribution,North America,810,333,78,28,21,21,32,3078
+2021Q2,Underwriting,Asia-Pacific,131,45,15,5,4,4,46,3961
+2021Q2,Underwriting,Europe,486,157,51,20,16,16,44,4396
+2021Q2,Underwriting,Latin America,103,32,11,3,3,3,45,4360
+2021Q2,Underwriting,North America,180,69,19,7,6,6,47,5055
+2021Q3,Actuarial & Risk,Asia-Pacific,96,30,19,6,5,5,74,8132
+2021Q3,Actuarial & Risk,Europe,152,46,24,8,7,7,79,7692
+2021Q3,Actuarial & Risk,Latin America,47,17,12,3,3,3,72,8240
+2021Q3,Actuarial & Risk,North America,152,34,24,7,6,6,81,9279
+2021Q3,Claims,Asia-Pacific,440,149,72,15,14,14,41,3914
+2021Q3,Claims,Europe,768,290,106,30,25,25,46,4437
+2021Q3,Claims,Latin America,246,74,30,10,8,8,45,4023
+2021Q3,Claims,North America,452,161,68,17,15,15,39,3645
+2021Q3,Customer Service,Asia-Pacific,656,180,59,15,12,12,30,4255
+2021Q3,Customer Service,Europe,1589,497,158,38,33,33,29,4204
+2021Q3,Customer Service,Latin America,481,166,45,12,10,10,33,4527
+2021Q3,Customer Service,North America,748,248,68,22,18,18,25,4690
+2021Q3,Executive & Strategy,Asia-Pacific,75,21,7,3,2,2,89,7523
+2021Q3,Executive & Strategy,Europe,90,37,10,4,3,3,88,8207
+2021Q3,Executive & Strategy,Latin America,29,11,4,1,1,1,100,8166
+2021Q3,Executive & Strategy,North America,65,22,8,2,2,2,102,7608
+2021Q3,Finance,Asia-Pacific,32,12,3,1,1,1,52,3786
+2021Q3,Finance,Europe,242,106,28,10,8,8,44,4090
+2021Q3,Finance,Latin America,37,10,4,1,1,1,46,3828
+2021Q3,Finance,North America,133,37,16,4,4,4,45,3977
+2021Q3,HR,Asia-Pacific,139,43,15,5,4,4,46,3353
+2021Q3,HR,Europe,108,45,16,4,4,4,47,3927
+2021Q3,HR,Latin America,25,12,4,1,1,1,48,3951
+2021Q3,HR,North America,121,44,15,5,4,4,45,2906
+2021Q3,IT & Digital,Asia-Pacific,83,37,33,8,7,7,66,6552
+2021Q3,IT & Digital,Europe,548,190,157,42,36,36,63,7304
+2021Q3,IT & Digital,Latin America,85,29,24,7,6,6,60,7632
+2021Q3,IT & Digital,North America,312,98,94,25,20,20,59,6787
+2021Q3,Legal & Compliance,Asia-Pacific,126,44,18,5,4,4,38,4337
+2021Q3,Legal & Compliance,Europe,142,55,21,7,5,5,50,4101
+2021Q3,Legal & Compliance,Latin America,138,44,18,4,4,4,44,4497
+2021Q3,Legal & Compliance,North America,139,44,15,4,4,4,44,3908
+2021Q3,Operations,Asia-Pacific,283,91,35,9,8,8,52,4121
+2021Q3,Operations,Europe,534,169,53,17,14,14,48,4234
+2021Q3,Operations,Latin America,123,43,17,5,4,4,48,3779
+2021Q3,Operations,North America,79,33,13,3,3,3,45,4082
+2021Q3,Sales & Distribution,Asia-Pacific,902,304,98,24,22,22,32,4116
+2021Q3,Sales & Distribution,Europe,1804,672,166,46,43,43,34,4678
+2021Q3,Sales & Distribution,Latin America,383,175,53,15,13,13,34,4439
+2021Q3,Sales & Distribution,North America,1153,408,114,36,29,29,35,2982
+2021Q3,Underwriting,Asia-Pacific,125,36,13,5,4,4,44,5175
+2021Q3,Underwriting,Europe,514,203,62,23,19,19,42,3710
+2021Q3,Underwriting,Latin America,251,74,34,8,7,7,44,4259
+2021Q3,Underwriting,North America,329,123,47,15,12,12,50,4052
+2021Q4,Actuarial & Risk,Asia-Pacific,55,19,11,4,3,3,72,7636
+2021Q4,Actuarial & Risk,Europe,276,75,53,18,14,14,73,6064
+2021Q4,Actuarial & Risk,Latin America,49,18,12,4,3,3,67,6267
+2021Q4,Actuarial & Risk,North America,79,25,17,4,4,4,59,8094
+2021Q4,Claims,Asia-Pacific,424,147,55,14,13,13,45,3085
+2021Q4,Claims,Europe,734,227,85,30,24,24,43,3731
+2021Q4,Claims,Latin America,113,41,18,4,4,4,41,4325
+2021Q4,Claims,North America,456,170,78,19,17,17,48,3913
+2021Q4,Customer Service,Asia-Pacific,629,217,67,18,15,15,27,3836
+2021Q4,Customer Service,Europe,1338,308,108,34,27,27,29,3862
+2021Q4,Customer Service,Latin America,286,96,30,8,6,6,27,4410
+2021Q4,Customer Service,North America,876,294,75,22,17,17,30,4564
+2021Q4,Executive & Strategy,Asia-Pacific,64,24,8,2,2,2,93,7547
+2021Q4,Executive & Strategy,Europe,113,33,12,4,3,3,86,8313
+2021Q4,Executive & Strategy,North America,65,22,8,2,2,2,83,6811
+2021Q4,Finance,Europe,352,117,45,12,10,10,46,4528
+2021Q4,Finance,Latin America,241,88,32,10,8,8,48,4235
+2021Q4,Finance,North America,159,64,20,6,5,5,47,3967
+2021Q4,HR,Europe,100,33,11,3,3,3,46,4325
+2021Q4,HR,Latin America,63,21,10,2,2,2,44,3473
+2021Q4,HR,North America,173,46,22,7,5,5,43,4313
+2021Q4,IT & Digital,Asia-Pacific,154,46,41,12,10,10,58,5681
+2021Q4,IT & Digital,Europe,456,200,179,43,39,39,64,6744
+2021Q4,IT & Digital,Latin America,132,59,51,12,11,11,56,8199
+2021Q4,IT & Digital,North America,388,103,129,32,26,26,66,7724
+2021Q4,Legal & Compliance,Europe,343,107,39,11,9,9,44,4128
+2021Q4,Legal & Compliance,North America,118,46,20,5,4,4,48,4714
+2021Q4,Operations,Asia-Pacific,208,54,17,6,5,5,35,4076
+2021Q4,Operations,Europe,370,98,40,12,10,10,51,3534
+2021Q4,Operations,Latin America,126,41,17,5,4,4,39,3945
+2021Q4,Operations,North America,327,107,40,11,9,9,42,4893
+2021Q4,Sales & Distribution,Asia-Pacific,888,226,75,24,20,20,33,4946
+2021Q4,Sales & Distribution,Europe,1597,535,193,53,42,42,35,5058
+2021Q4,Sales & Distribution,Latin America,481,134,37,13,10,10,37,4194
+2021Q4,Sales & Distribution,North America,933,267,78,26,21,21,36,4623
+2021Q4,Underwriting,Asia-Pacific,239,117,38,10,9,9,47,3670
+2021Q4,Underwriting,Europe,569,214,97,24,19,19,46,4296
+2021Q4,Underwriting,Latin America,191,61,20,5,5,5,39,3086
+2021Q4,Underwriting,North America,294,121,50,12,10,10,44,4117
+2022Q1,Actuarial & Risk,Asia-Pacific,14,6,4,1,1,1,117,6432
+2022Q1,Actuarial & Risk,Europe,285,74,54,15,13,13,107,7192
+2022Q1,Actuarial & Risk,Latin America,57,21,13,4,3,3,93,8425
+2022Q1,Actuarial & Risk,North America,78,31,21,6,5,5,97,7969
+2022Q1,Claims,Asia-Pacific,333,123,57,17,14,14,66,3830
+2022Q1,Claims,Europe,1023,289,142,38,31,31,59,4025
+2022Q1,Claims,Latin America,311,129,41,12,11,11,57,4038
+2022Q1,Claims,North America,378,153,62,16,14,14,67,3988
+2022Q1,Customer Service,Asia-Pacific,761,287,63,17,15,15,40,4366
+2022Q1,Customer Service,Europe,1711,580,138,55,37,37,35,4134
+2022Q1,Customer Service,Latin America,359,120,33,9,8,8,41,4158
+2022Q1,Customer Service,North America,1349,439,100,28,25,25,37,2884
+2022Q1,Executive & Strategy,Asia-Pacific,122,40,12,5,4,4,136,8500
+2022Q1,Executive & Strategy,Europe,175,53,16,6,5,5,127,7073
+2022Q1,Executive & Strategy,Latin America,31,9,3,1,1,1,138,7602
+2022Q1,Executive & Strategy,North America,108,32,14,5,4,4,141,7975
+2022Q1,Finance,Asia-Pacific,144,48,20,7,5,5,69,3869
+2022Q1,Finance,Europe,219,74,26,8,7,7,57,4496
+2022Q1,Finance,North America,104,31,11,3,3,3,62,4126
+2022Q1,HR,Asia-Pacific,30,13,4,1,1,1,64,4699
+2022Q1,HR,Europe,392,116,45,12,10,10,59,4610
+2022Q1,HR,Latin America,34,10,3,1,1,1,61,4623
+2022Q1,HR,North America,65,22,9,3,2,2,50,3486
+2022Q1,IT & Digital,Asia-Pacific,162,57,46,12,11,11,87,8079
+2022Q1,IT & Digital,Europe,432,163,169,40,36,36,92,6784
+2022Q1,IT & Digital,Latin America,90,32,24,6,6,6,79,7672
+2022Q1,IT & Digital,North America,294,119,102,29,24,24,73,6882
+2022Q1,Legal & Compliance,Asia-Pacific,29,12,4,1,1,1,56,4340
+2022Q1,Legal & Compliance,Europe,142,38,15,5,4,4,63,4800
+2022Q1,Legal & Compliance,North America,201,82,27,8,7,7,54,4288
+2022Q1,Operations,Asia-Pacific,252,80,27,8,7,7,55,4553
+2022Q1,Operations,Europe,398,139,47,15,12,12,60,4181
+2022Q1,Operations,Latin America,147,55,21,6,5,5,55,3974
+2022Q1,Operations,North America,262,79,33,10,8,8,62,4917
+2022Q1,Sales & Distribution,Asia-Pacific,1040,320,103,27,23,23,45,3929
+2022Q1,Sales & Distribution,Europe,1803,789,218,59,51,51,57,3940
+2022Q1,Sales & Distribution,Latin America,527,176,57,15,13,13,40,4263
+2022Q1,Sales & Distribution,North America,1023,313,109,30,27,27,48,4660
+2022Q1,Underwriting,Asia-Pacific,254,72,32,9,7,7,62,5361
+2022Q1,Underwriting,Europe,846,249,78,26,23,23,61,4246
+2022Q1,Underwriting,Latin America,63,18,8,2,2,2,58,4892
+2022Q1,Underwriting,North America,353,122,37,13,11,11,56,4793
+2022Q2,Actuarial & Risk,Asia-Pacific,59,25,15,5,4,4,97,7571
+2022Q2,Actuarial & Risk,Europe,149,60,38,12,10,10,92,8268
+2022Q2,Actuarial & Risk,Latin America,37,13,7,2,2,2,92,8366
+2022Q2,Actuarial & Risk,North America,78,33,25,7,6,6,117,6827
+2022Q2,Claims,Asia-Pacific,272,101,32,11,9,9,57,3895
+2022Q2,Claims,Europe,991,392,168,45,36,36,63,4262
+2022Q2,Claims,Latin America,81,27,10,4,3,3,66,4748
+2022Q2,Claims,North America,645,219,91,24,21,21,58,3693
+2022Q2,Customer Service,Asia-Pacific,496,154,37,14,11,11,36,3733
+2022Q2,Customer Service,Europe,1991,630,172,43,38,38,44,3543
+2022Q2,Customer Service,Latin America,719,241,68,21,16,16,41,4182
+2022Q2,Customer Service,North America,1383,323,84,31,23,23,41,3348
+2022Q2,Executive & Strategy,Asia-Pacific,64,20,8,3,2,2,140,7643
+2022Q2,Executive & Strategy,Europe,170,57,27,6,5,5,118,8739
+2022Q2,Executive & Strategy,Latin America,67,17,7,2,2,2,115,5981
+2022Q2,Executive & Strategy,North America,151,37,19,5,4,4,126,7502
+2022Q2,Finance,Asia-Pacific,97,38,11,4,3,3,61,4149
+2022Q2,Finance,Europe,166,74,27,7,6,6,57,4763
+2022Q2,Finance,Latin America,31,9,3,1,1,1,58,5041
+2022Q2,Finance,North America,180,65,21,6,5,5,57,4236
+2022Q2,HR,Asia-Pacific,101,31,14,4,3,3,66,4311
+2022Q2,HR,Europe,270,89,34,9,8,8,65,3858
+2022Q2,HR,Latin America,62,17,9,2,2,2,59,4956
+2022Q2,HR,North America,71,32,12,4,3,3,66,4613
+2022Q2,IT & Digital,Asia-Pacific,183,80,59,14,13,13,72,6826
+2022Q2,IT & Digital,Europe,538,177,168,49,39,39,92,6163
+2022Q2,IT & Digital,Latin America,119,40,35,9,7,7,86,8742
+2022Q2,IT & Digital,North America,190,77,76,20,17,17,84,6724
+2022Q2,Legal & Compliance,Asia-Pacific,33,11,3,1,1,1,68,3948
+2022Q2,Legal & Compliance,Europe,192,66,24,7,6,6,51,5426
+2022Q2,Legal & Compliance,Latin America,33,10,4,1,1,1,63,3871
+2022Q2,Legal & Compliance,North America,103,32,11,3,3,3,64,5384
+2022Q2,Operations,Asia-Pacific,143,44,15,5,4,4,67,4053
+2022Q2,Operations,Europe,502,161,73,18,17,17,65,4636
+2022Q2,Operations,Latin America,81,37,11,4,3,3,72,3921
+2022Q2,Operations,North America,247,102,40,10,8,8,63,4459
+2022Q2,Sales & Distribution,Asia-Pacific,596,142,65,18,14,14,49,3774
+2022Q2,Sales & Distribution,Europe,2413,921,285,66,58,58,48,4442
+2022Q2,Sales & Distribution,Latin America,627,175,59,19,15,15,42,3924
+2022Q2,Sales & Distribution,North America,613,240,66,21,18,18,49,4668
+2022Q2,Underwriting,Asia-Pacific,191,60,26,7,6,6,67,4091
+2022Q2,Underwriting,Europe,814,263,112,32,27,27,53,4784
+2022Q2,Underwriting,Latin America,177,57,20,5,5,5,61,3575
+2022Q2,Underwriting,North America,226,83,34,8,7,7,62,5055
+2022Q3,Actuarial & Risk,Asia-Pacific,66,27,17,5,4,4,100,8202
+2022Q3,Actuarial & Risk,Europe,198,74,45,13,11,11,91,7750
+2022Q3,Actuarial & Risk,Latin America,98,34,21,6,5,5,107,8545
+2022Q3,Actuarial & Risk,North America,79,28,16,5,4,4,100,8377
+2022Q3,Claims,Asia-Pacific,380,156,43,15,13,13,60,4294
+2022Q3,Claims,Europe,978,368,146,42,39,39,60,3848
+2022Q3,Claims,Latin America,401,133,50,15,12,12,58,4067
+2022Q3,Claims,North America,681,169,72,22,18,18,58,4130
+2022Q3,Customer Service,Asia-Pacific,641,240,79,19,17,17,39,4981
+2022Q3,Customer Service,Europe,1367,549,144,46,37,37,40,3805
+2022Q3,Customer Service,Latin America,443,144,36,11,9,9,37,4341
+2022Q3,Customer Service,North America,873,299,107,25,22,22,33,4063
+2022Q3,Executive & Strategy,Asia-Pacific,111,34,14,4,3,3,142,6981
+2022Q3,Executive & Strategy,Europe,51,21,9,2,2,2,133,7970
+2022Q3,Executive & Strategy,Latin America,60,24,8,2,2,2,129,8551
+2022Q3,Executive & Strategy,North America,79,22,9,2,2,2,131,7207
+2022Q3,Finance,Asia-Pacific,105,35,13,4,3,3,62,4131
+2022Q3,Finance,Europe,324,120,37,14,11,11,62,4260
+2022Q3,Finance,Latin America,57,22,9,2,2,2,56,3706
+2022Q3,Finance,North America,230,69,31,8,7,7,51,5048
+2022Q3,HR,Asia-Pacific,27,10,3,1,1,1,60,3839
+2022Q3,HR,Europe,160,61,21,5,5,5,67,4435
+2022Q3,HR,North America,245,93,35,10,8,8,51,3736
+2022Q3,IT & Digital,Asia-Pacific,136,59,50,16,12,12,68,6408
+2022Q3,IT & Digital,Europe,782,259,181,55,49,49,85,8526
+2022Q3,IT & Digital,Latin America,185,63,60,17,14,14,90,9160
+2022Q3,IT & Digital,North America,310,91,102,26,22,22,79,8830
+2022Q3,Legal & Compliance,Europe,221,83,30,9,7,7,49,4075
+2022Q3,Legal & Compliance,Latin America,41,12,4,1,1,1,64,4986
+2022Q3,Legal & Compliance,North America,135,52,22,6,5,5,58,4181
+2022Q3,Operations,Asia-Pacific,150,32,14,5,4,4,62,4073
+2022Q3,Operations,Europe,392,126,43,12,11,11,62,4138
+2022Q3,Operations,Latin America,28,11,4,1,1,1,61,5071
+2022Q3,Operations,North America,307,121,47,13,10,10,57,4387
+2022Q3,Sales & Distribution,Asia-Pacific,842,336,97,30,25,25,51,4418
+2022Q3,Sales & Distribution,Europe,2706,946,244,75,62,62,41,3860
+2022Q3,Sales & Distribution,Latin America,354,136,61,15,13,13,47,4461
+2022Q3,Sales & Distribution,North America,1317,508,151,44,37,37,51,4183
+2022Q3,Underwriting,Asia-Pacific,124,39,15,5,4,4,64,3735
+2022Q3,Underwriting,Europe,567,204,90,23,19,19,55,3694
+2022Q3,Underwriting,Latin America,292,94,28,10,8,8,56,4039
+2022Q3,Underwriting,North America,351,145,45,15,12,12,62,4163
+2022Q4,Actuarial & Risk,Asia-Pacific,69,28,23,6,5,5,98,6172
+2022Q4,Actuarial & Risk,Europe,85,40,23,7,6,6,107,8673
+2022Q4,Actuarial & Risk,Latin America,15,6,3,1,1,1,90,6790
+2022Q4,Actuarial & Risk,North America,96,33,16,6,5,5,86,6442
+2022Q4,Claims,Asia-Pacific,496,210,80,21,19,19,65,4031
+2022Q4,Claims,Europe,1285,454,161,48,39,39,59,3946
+2022Q4,Claims,Latin America,300,86,42,11,9,9,54,4279
+2022Q4,Claims,North America,624,260,78,25,20,20,67,3533
+2022Q4,Customer Service,Asia-Pacific,1627,457,98,32,28,28,36,4287
+2022Q4,Customer Service,Europe,1993,628,144,47,37,37,40,4371
+2022Q4,Customer Service,Latin America,325,105,20,8,6,6,42,4180
+2022Q4,Customer Service,North America,892,275,84,23,20,20,42,3248
+2022Q4,Executive & Strategy,Asia-Pacific,58,23,7,2,2,2,133,7237
+2022Q4,Executive & Strategy,Europe,190,60,24,7,6,6,132,7724
+2022Q4,Executive & Strategy,North America,154,58,22,5,5,5,145,7158
+2022Q4,Finance,Asia-Pacific,157,50,18,6,5,5,65,4500
+2022Q4,Finance,Europe,414,115,45,12,11,11,57,4116
+2022Q4,Finance,Latin America,27,12,3,1,1,1,64,5266
+2022Q4,Finance,North America,135,56,23,6,5,5,55,3554
+2022Q4,HR,Asia-Pacific,27,9,4,1,1,1,66,4359
+2022Q4,HR,Europe,200,69,27,7,6,6,58,4119
+2022Q4,HR,North America,123,40,16,5,4,4,59,4720
+2022Q4,IT & Digital,Asia-Pacific,353,106,114,29,23,23,77,4800
+2022Q4,IT & Digital,Europe,577,199,188,45,39,39,92,7120
+2022Q4,IT & Digital,Latin America,100,32,27,9,7,7,80,8488
+2022Q4,IT & Digital,North America,342,129,94,27,24,24,83,8277
+2022Q4,Legal & Compliance,Asia-Pacific,150,44,17,5,4,4,65,3492
+2022Q4,Legal & Compliance,Europe,153,46,20,6,5,5,64,3132
+2022Q4,Legal & Compliance,Latin America,23,10,4,1,1,1,68,4305
+2022Q4,Legal & Compliance,North America,102,36,12,4,3,3,62,4405
+2022Q4,Operations,Asia-Pacific,576,188,73,19,16,16,66,3839
+2022Q4,Operations,Europe,698,227,85,26,21,21,60,4125
+2022Q4,Operations,Latin America,95,47,14,5,4,4,69,4391
+2022Q4,Operations,North America,413,136,47,14,12,12,61,4782
+2022Q4,Sales & Distribution,Asia-Pacific,985,344,115,33,27,27,46,4672
+2022Q4,Sales & Distribution,Europe,1768,756,244,68,53,53,50,5122
+2022Q4,Sales & Distribution,Latin America,348,119,40,11,10,10,46,4370
+2022Q4,Sales & Distribution,North America,1341,481,158,45,37,37,50,4381
+2022Q4,Underwriting,Asia-Pacific,237,81,33,8,7,7,72,4212
+2022Q4,Underwriting,Europe,609,271,77,28,22,22,62,4866
+2022Q4,Underwriting,Latin America,99,36,13,4,3,3,62,3254
+2022Q4,Underwriting,North America,347,136,55,15,13,13,65,4449
+2023Q1,Actuarial & Risk,Asia-Pacific,31,13,8,2,2,2,68,7392
+2023Q1,Actuarial & Risk,Europe,186,49,44,10,9,9,66,7754
+2023Q1,Actuarial & Risk,Latin America,70,20,16,5,4,4,74,7394
+2023Q1,Actuarial & Risk,North America,73,26,18,5,4,4,84,8309
+2023Q1,Claims,Asia-Pacific,330,125,41,12,11,11,49,4783
+2023Q1,Claims,Europe,1797,600,252,68,54,54,66,4224
+2023Q1,Claims,Latin America,212,77,26,9,7,7,43,3156
+2023Q1,Claims,North America,650,231,69,24,20,20,46,3676
+2023Q1,Customer Service,Asia-Pacific,477,164,56,13,12,12,26,4168
+2023Q1,Customer Service,Europe,1689,408,115,39,30,30,26,4221
+2023Q1,Customer Service,Latin America,441,164,51,13,10,10,33,3965
+2023Q1,Customer Service,North America,785,233,68,21,18,18,28,4009
+2023Q1,Executive & Strategy,Asia-Pacific,35,12,4,1,1,1,90,7495
+2023Q1,Executive & Strategy,Europe,171,47,22,6,5,5,95,7241
+2023Q1,Executive & Strategy,Latin America,64,21,8,2,2,2,90,7712
+2023Q1,Executive & Strategy,North America,70,19,8,3,2,2,86,8400
+2023Q1,Finance,Asia-Pacific,29,11,4,1,1,1,42,3976
+2023Q1,Finance,Europe,171,61,29,8,7,7,43,3296
+2023Q1,Finance,Latin America,101,34,10,4,3,3,49,4375
+2023Q1,Finance,North America,212,73,24,7,6,6,42,4689
+2023Q1,HR,Asia-Pacific,66,19,7,2,2,2,52,3782
+2023Q1,HR,Europe,97,31,13,4,3,3,47,3915
+2023Q1,HR,Latin America,34,13,5,1,1,1,41,4119
+2023Q1,HR,North America,72,20,7,2,2,2,49,3921
+2023Q1,IT & Digital,Asia-Pacific,149,51,51,13,11,11,52,8564
+2023Q1,IT & Digital,Europe,560,201,145,43,39,39,64,7560
+2023Q1,IT & Digital,Latin America,176,62,57,17,13,13,61,6727
+2023Q1,IT & Digital,North America,185,78,65,18,15,15,65,9118
+2023Q1,Legal & Compliance,Asia-Pacific,96,31,12,3,3,3,62,4251
+2023Q1,Legal & Compliance,Europe,307,123,43,12,10,10,49,4329
+2023Q1,Legal & Compliance,North America,243,70,26,7,6,6,46,3893
+2023Q1,Operations,Asia-Pacific,310,92,33,11,9,9,42,4107
+2023Q1,Operations,Europe,389,128,59,17,12,12,47,3348
+2023Q1,Operations,Latin America,97,30,13,3,3,3,41,4882
+2023Q1,Operations,North America,274,107,43,13,10,10,48,3821
+2023Q1,Sales & Distribution,Asia-Pacific,395,164,54,15,12,12,29,4279
+2023Q1,Sales & Distribution,Europe,2118,705,247,63,56,56,38,4238
+2023Q1,Sales & Distribution,Latin America,328,132,36,10,8,8,37,3605
+2023Q1,Sales & Distribution,North America,1041,357,107,32,26,26,29,3962
+2023Q1,Underwriting,Asia-Pacific,299,80,29,8,7,7,50,4071
+2023Q1,Underwriting,Europe,580,201,77,20,17,17,48,4422
+2023Q1,Underwriting,Latin America,220,83,28,9,7,7,42,4371
+2023Q1,Underwriting,North America,318,102,35,13,9,9,43,3928
+2023Q2,Actuarial & Risk,Asia-Pacific,32,13,8,2,2,2,70,8133
+2023Q2,Actuarial & Risk,Europe,120,33,20,6,5,5,61,7209
+2023Q2,Actuarial & Risk,Latin America,16,6,5,1,1,1,74,8578
+2023Q2,Actuarial & Risk,North America,46,18,11,4,3,3,71,7884
+2023Q2,Claims,Asia-Pacific,365,163,57,15,14,14,47,3787
+2023Q2,Claims,Europe,2224,810,358,75,71,71,64,4179
+2023Q2,Claims,Latin America,200,65,31,8,7,7,47,3649
+2023Q2,Claims,North America,517,174,78,22,19,19,46,4055
+2023Q2,Customer Service,Asia-Pacific,552,191,46,13,11,11,24,3978
+2023Q2,Customer Service,Europe,1173,507,146,46,33,33,31,4394
+2023Q2,Customer Service,Latin America,371,100,28,8,7,7,28,3668
+2023Q2,Customer Service,North America,829,285,83,24,20,20,31,3453
+2023Q2,Executive & Strategy,Europe,31,11,4,1,1,1,84,8214
+2023Q2,Executive & Strategy,Latin America,104,36,13,3,3,3,78,6432
+2023Q2,Executive & Strategy,North America,32,11,4,1,1,1,89,7810
+2023Q2,Finance,Asia-Pacific,101,39,11,4,3,3,48,3967
+2023Q2,Finance,Europe,147,56,22,6,5,5,38,5101
+2023Q2,Finance,Latin America,78,23,9,2,2,2,44,4505
+2023Q2,Finance,North America,344,100,41,11,9,9,46,4835
+2023Q2,HR,Asia-Pacific,27,9,4,1,1,1,44,3566
+2023Q2,HR,Europe,143,48,17,5,4,4,46,3850
+2023Q2,HR,Latin America,50,22,9,2,2,2,39,5187
+2023Q2,HR,North America,253,76,29,9,7,7,42,4209
+2023Q2,IT & Digital,Asia-Pacific,117,48,40,11,9,9,64,6575
+2023Q2,IT & Digital,Europe,568,190,164,40,35,35,65,8141
+2023Q2,IT & Digital,Latin America,106,33,26,9,7,7,64,7863
+2023Q2,IT & Digital,North America,238,95,90,22,19,19,65,7903
+2023Q2,Legal & Compliance,Asia-Pacific,91,35,10,3,3,3,41,3488
+2023Q2,Legal & Compliance,Europe,137,43,16,6,4,4,45,3892
+2023Q2,Legal & Compliance,Latin America,58,23,8,2,2,2,41,4387
+2023Q2,Legal & Compliance,North America,216,77,23,7,6,6,51,3285
+2023Q2,Operations,Asia-Pacific,337,119,44,12,10,10,44,3964
+2023Q2,Operations,Europe,246,74,40,9,8,8,44,4819
+2023Q2,Operations,Latin America,120,44,16,5,4,4,43,4047
+2023Q2,Operations,North America,398,136,51,15,12,12,40,4368
+2023Q2,Sales & Distribution,Asia-Pacific,689,282,99,23,21,21,35,4816
+2023Q2,Sales & Distribution,Europe,1514,889,251,67,55,55,31,4162
+2023Q2,Sales & Distribution,Latin America,297,92,38,11,9,9,36,3481
+2023Q2,Sales & Distribution,North America,1250,395,116,39,29,29,37,4197
+2023Q2,Underwriting,Asia-Pacific,288,124,34,12,9,9,48,4120
+2023Q2,Underwriting,Europe,771,280,108,27,23,23,44,4970
+2023Q2,Underwriting,North America,247,130,39,10,9,9,42,4572
+2023Q3,Actuarial & Risk,Asia-Pacific,152,51,31,8,7,7,73,8409
+2023Q3,Actuarial & Risk,Europe,259,89,51,15,13,13,76,8688
+2023Q3,Actuarial & Risk,North America,33,12,6,2,2,2,58,7701
+2023Q3,Claims,Asia-Pacific,508,183,76,20,17,17,42,4573
+2023Q3,Claims,Europe,1923,796,276,78,69,69,64,4249
+2023Q3,Claims,Latin America,221,123,36,12,10,10,46,4134
+2023Q3,Claims,North America,672,259,106,30,25,25,47,4789
+2023Q3,Customer Service,Asia-Pacific,849,330,87,23,20,20,30,3853
+2023Q3,Customer Service,Europe,1237,618,150,41,36,36,31,4344
+2023Q3,Customer Service,Latin America,473,125,32,10,9,9,30,4439
+2023Q3,Customer Service,North America,625,220,66,19,15,15,25,3493
+2023Q3,Executive & Strategy,Asia-Pacific,114,47,17,5,4,4,87,8103
+2023Q3,Executive & Strategy,Europe,61,20,7,2,2,2,97,8728
+2023Q3,Executive & Strategy,Latin America,33,14,3,1,1,1,101,6948
+2023Q3,Executive & Strategy,North America,88,32,13,3,3,3,85,7041
+2023Q3,Finance,Asia-Pacific,32,11,4,1,1,1,39,3462
+2023Q3,Finance,Europe,456,141,59,16,14,14,46,3963
+2023Q3,Finance,Latin America,28,12,4,1,1,1,45,3735
+2023Q3,Finance,North America,123,42,17,5,4,4,48,4262
+2023Q3,HR,Asia-Pacific,93,31,11,3,3,3,42,3957
+2023Q3,HR,Europe,166,53,23,6,5,5,48,4135
+2023Q3,HR,Latin America,32,11,4,1,1,1,48,4455
+2023Q3,HR,North America,104,39,12,3,3,3,44,5122
+2023Q3,IT & Digital,Asia-Pacific,227,88,72,21,18,18,69,6804
+2023Q3,IT & Digital,Europe,504,169,186,50,41,41,51,8084
+2023Q3,IT & Digital,Latin America,63,19,19,5,4,4,69,9034
+2023Q3,IT & Digital,North America,317,110,70,24,21,21,72,7509
+2023Q3,Legal & Compliance,Asia-Pacific,66,23,8,2,2,2,42,3966
+2023Q3,Legal & Compliance,Europe,163,54,19,6,5,5,41,3958
+2023Q3,Legal & Compliance,Latin America,31,9,3,1,1,1,38,4164
+2023Q3,Legal & Compliance,North America,100,39,12,3,3,3,51,3622
+2023Q3,Operations,Asia-Pacific,212,79,31,8,7,7,42,3202
+2023Q3,Operations,Europe,564,193,92,24,19,19,43,3793
+2023Q3,Operations,Latin America,132,42,15,5,4,4,47,4344
+2023Q3,Operations,North America,202,59,27,7,6,6,39,3376
+2023Q3,Sales & Distribution,Asia-Pacific,605,269,70,23,17,17,35,4020
+2023Q3,Sales & Distribution,Europe,1248,588,191,48,43,43,39,4198
+2023Q3,Sales & Distribution,Latin America,506,154,56,17,14,14,35,4418
+2023Q3,Sales & Distribution,North America,1006,378,138,36,32,32,31,5125
+2023Q3,Underwriting,Asia-Pacific,249,81,35,10,8,8,42,4297
+2023Q3,Underwriting,Europe,571,217,88,23,19,19,47,4070
+2023Q3,Underwriting,Latin America,173,55,27,8,6,6,41,4465
+2023Q3,Underwriting,North America,438,136,42,12,11,11,45,4054
+2023Q4,Actuarial & Risk,Asia-Pacific,27,13,8,3,2,2,73,7952
+2023Q4,Actuarial & Risk,Europe,105,42,28,7,6,6,77,7736
+2023Q4,Actuarial & Risk,Latin America,17,5,4,1,1,1,63,7152
+2023Q4,Actuarial & Risk,North America,111,44,28,8,6,6,68,8713
+2023Q4,Claims,Asia-Pacific,350,113,48,16,12,12,47,3378
+2023Q4,Claims,Europe,2103,698,261,68,62,62,67,4776
+2023Q4,Claims,Latin America,143,59,25,7,6,6,38,4457
+2023Q4,Claims,North America,686,282,94,29,24,24,42,4403
+2023Q4,Customer Service,Asia-Pacific,698,205,56,18,14,14,30,3963
+2023Q4,Customer Service,Europe,1503,393,113,38,30,30,30,4134
+2023Q4,Customer Service,Latin America,409,163,40,11,10,10,31,4759
+2023Q4,Customer Service,North America,848,276,73,19,17,17,27,4387
+2023Q4,Executive & Strategy,Asia-Pacific,94,27,13,4,3,3,96,7402
+2023Q4,Executive & Strategy,Europe,162,51,19,6,5,5,105,5442
+2023Q4,Executive & Strategy,North America,28,11,3,1,1,1,91,9100
+2023Q4,Finance,Asia-Pacific,145,57,20,6,5,5,42,3136
+2023Q4,Finance,Europe,290,117,42,12,10,10,38,4252
+2023Q4,Finance,Latin America,141,45,19,5,4,4,39,3336
+2023Q4,Finance,North America,94,35,12,3,3,3,44,5390
+2023Q4,HR,Asia-Pacific,111,32,12,3,3,3,37,3501
+2023Q4,HR,Europe,162,54,21,6,5,5,50,4391
+2023Q4,IT & Digital,Asia-Pacific,235,78,73,20,16,16,64,6925
+2023Q4,IT & Digital,Europe,678,243,194,47,40,40,60,7734
+2023Q4,IT & Digital,Latin America,76,29,23,7,6,6,51,7548
+2023Q4,IT & Digital,North America,210,63,47,15,12,12,58,6946
+2023Q4,Legal & Compliance,Asia-Pacific,73,21,7,2,2,2,50,3966
+2023Q4,Legal & Compliance,Europe,33,11,4,1,1,1,46,4156
+2023Q4,Legal & Compliance,Latin America,60,25,7,2,2,2,49,4244
+2023Q4,Legal & Compliance,North America,106,33,13,4,3,3,54,4110
+2023Q4,Operations,Asia-Pacific,81,28,11,4,3,3,49,4770
+2023Q4,Operations,Europe,442,149,47,15,12,12,42,4096
+2023Q4,Operations,Latin America,106,45,16,5,4,4,37,3634
+2023Q4,Operations,North America,327,95,34,10,8,8,44,4465
+2023Q4,Sales & Distribution,Asia-Pacific,949,456,98,34,28,28,35,5404
+2023Q4,Sales & Distribution,Europe,2002,461,217,49,44,44,38,3469
+2023Q4,Sales & Distribution,Latin America,605,159,54,13,13,13,36,3471
+2023Q4,Sales & Distribution,North America,1147,359,112,33,27,27,35,4347
+2023Q4,Underwriting,Asia-Pacific,168,82,26,7,6,6,46,3913
+2023Q4,Underwriting,Europe,661,187,70,24,19,19,43,4921
+2023Q4,Underwriting,Latin America,174,51,19,6,5,5,42,4268
+2023Q4,Underwriting,North America,245,77,36,10,8,8,48,4435
+2024Q1,Actuarial & Risk,Asia-Pacific,62,22,17,5,4,4,68,7703
+2024Q1,Actuarial & Risk,Europe,314,89,58,16,14,14,66,8567
+2024Q1,Actuarial & Risk,Latin America,88,24,16,5,4,4,72,8241
+2024Q1,Actuarial & Risk,North America,74,21,17,5,4,4,66,7429
+2024Q1,Claims,Asia-Pacific,252,87,32,10,8,8,49,3495
+2024Q1,Claims,Europe,2311,955,248,112,75,75,43,4136
+2024Q1,Claims,Latin America,208,73,29,8,7,7,44,4455
+2024Q1,Claims,North America,531,180,75,25,20,20,37,4118
+2024Q1,Customer Service,Asia-Pacific,529,158,48,13,11,11,27,4856
+2024Q1,Customer Service,Europe,1156,366,113,29,25,25,27,4907
+2024Q1,Customer Service,Latin America,241,94,26,7,6,6,31,4403
+2024Q1,Customer Service,North America,880,245,63,20,17,17,25,4355
+2024Q1,Executive & Strategy,Asia-Pacific,78,22,9,3,2,2,98,6877
+2024Q1,Executive & Strategy,Europe,144,60,20,6,5,5,73,7760
+2024Q1,Executive & Strategy,Latin America,103,34,14,3,3,3,96,8333
+2024Q1,Executive & Strategy,North America,100,34,10,4,3,3,96,7902
+2024Q1,Finance,Asia-Pacific,35,12,3,1,1,1,47,5320
+2024Q1,Finance,Europe,233,67,30,8,7,7,48,5975
+2024Q1,Finance,Latin America,36,11,4,1,1,1,46,3890
+2024Q1,Finance,North America,444,130,58,14,12,12,45,4516
+2024Q1,HR,Asia-Pacific,116,47,15,5,4,4,47,4451
+2024Q1,HR,Europe,95,36,14,4,3,3,48,4264
+2024Q1,HR,Latin America,82,34,13,4,3,3,47,4471
+2024Q1,HR,North America,95,34,14,3,3,3,42,4295
+2024Q1,IT & Digital,Asia-Pacific,247,85,75,25,21,21,65,7396
+2024Q1,IT & Digital,Europe,586,228,228,61,48,48,71,7836
+2024Q1,IT & Digital,Latin America,116,37,31,10,8,8,55,6546
+2024Q1,IT & Digital,North America,307,112,108,27,23,23,57,8127
+2024Q1,Legal & Compliance,Asia-Pacific,54,26,7,2,2,2,44,4141
+2024Q1,Legal & Compliance,Europe,94,37,10,3,3,3,46,3739
+2024Q1,Legal & Compliance,Latin America,128,40,17,5,4,4,45,4647
+2024Q1,Legal & Compliance,North America,209,69,25,8,7,7,37,4269
+2024Q1,Operations,Asia-Pacific,170,69,25,7,6,6,41,4496
+2024Q1,Operations,Europe,479,163,66,16,14,14,46,4942
+2024Q1,Operations,Latin America,107,35,10,3,3,3,48,4183
+2024Q1,Operations,North America,172,55,17,5,5,5,40,3878
+2024Q1,Sales & Distribution,Asia-Pacific,1024,354,98,30,25,25,29,3801
+2024Q1,Sales & Distribution,Europe,2257,810,230,64,56,56,36,4972
+2024Q1,Sales & Distribution,Latin America,278,107,43,8,8,8,34,4902
+2024Q1,Sales & Distribution,North America,890,343,126,34,29,29,37,4438
+2024Q1,Underwriting,Asia-Pacific,96,32,10,4,3,3,52,5302
+2024Q1,Underwriting,Europe,331,139,42,13,12,12,43,5208
+2024Q1,Underwriting,Latin America,109,48,18,5,4,4,43,4128
+2024Q1,Underwriting,North America,254,123,43,13,11,11,47,4376
+2024Q2,Actuarial & Risk,Asia-Pacific,51,17,13,4,3,3,73,7685
+2024Q2,Actuarial & Risk,Europe,166,59,34,11,9,9,68,6368
+2024Q2,Actuarial & Risk,Latin America,42,12,8,3,2,2,70,5590
+2024Q2,Actuarial & Risk,North America,82,26,15,5,4,4,75,7043
+2024Q2,Claims,Asia-Pacific,461,194,62,18,16,16,40,4162
+2024Q2,Claims,Europe,937,444,174,53,45,45,42,4022
+2024Q2,Claims,Latin America,221,84,31,10,8,8,51,3539
+2024Q2,Claims,North America,552,228,75,27,21,21,53,4656
+2024Q2,Customer Service,Asia-Pacific,686,271,66,20,17,17,27,4975
+2024Q2,Customer Service,Europe,1616,546,157,39,33,33,27,5008
+2024Q2,Customer Service,Latin America,250,102,24,6,6,6,29,3991
+2024Q2,Customer Service,North America,809,271,74,22,18,18,26,3207
+2024Q2,Executive & Strategy,Asia-Pacific,31,10,3,1,1,1,103,6810
+2024Q2,Executive & Strategy,Europe,185,81,24,7,6,6,101,6936
+2024Q2,Executive & Strategy,North America,163,43,17,5,4,4,85,6516
+2024Q2,Finance,Asia-Pacific,104,35,12,4,3,3,45,4702
+2024Q2,Finance,Europe,261,90,31,10,8,8,42,4369
+2024Q2,Finance,Latin America,73,21,8,2,2,2,50,4853
+2024Q2,Finance,North America,90,31,13,4,3,3,42,4781
+2024Q2,HR,Asia-Pacific,80,30,13,3,3,3,45,4272
+2024Q2,HR,Europe,276,99,39,11,9,9,49,3745
+2024Q2,HR,Latin America,33,10,4,1,1,1,44,4965
+2024Q2,HR,North America,141,46,18,5,4,4,39,4374
+2024Q2,IT & Digital,Asia-Pacific,228,70,80,18,16,16,72,6935
+2024Q2,IT & Digital,Europe,540,243,172,55,44,44,57,6313
+2024Q2,IT & Digital,Latin America,93,28,28,8,7,7,64,6605
+2024Q2,IT & Digital,North America,358,125,107,29,24,24,57,8109
+2024Q2,Legal & Compliance,Asia-Pacific,159,59,21,6,5,5,46,4410
+2024Q2,Legal & Compliance,Europe,176,87,27,9,7,7,46,3313
+2024Q2,Legal & Compliance,North America,98,32,13,3,3,3,46,3950
+2024Q2,Operations,Asia-Pacific,153,51,15,5,4,4,49,4920
+2024Q2,Operations,Europe,374,91,41,12,10,10,44,3951
+2024Q2,Operations,Latin America,163,51,19,6,5,5,42,4004
+2024Q2,Operations,North America,280,108,39,12,9,9,38,3483
+2024Q2,Sales & Distribution,Asia-Pacific,901,378,91,26,22,22,37,3503
+2024Q2,Sales & Distribution,Europe,1904,756,267,68,57,57,34,5133
+2024Q2,Sales & Distribution,Latin America,562,213,55,16,14,14,38,3820
+2024Q2,Sales & Distribution,North America,1029,321,119,31,26,26,35,4764
+2024Q2,Underwriting,Asia-Pacific,223,95,36,10,9,9,41,4509
+2024Q2,Underwriting,Europe,449,157,52,17,13,13,43,3857
+2024Q2,Underwriting,Latin America,229,70,33,9,7,7,47,5037
+2024Q2,Underwriting,North America,298,117,50,12,10,10,45,3251
+2024Q3,Actuarial & Risk,Asia-Pacific,82,27,18,6,5,5,72,7767
+2024Q3,Actuarial & Risk,Europe,94,27,21,8,5,5,81,6371
+2024Q3,Actuarial & Risk,Latin America,21,6,4,1,1,1,67,8483
+2024Q3,Actuarial & Risk,North America,73,19,17,5,4,4,70,7897
+2024Q3,Claims,Asia-Pacific,345,119,48,14,11,11,42,3859
+2024Q3,Claims,Europe,898,359,135,40,33,33,46,4562
+2024Q3,Claims,Latin America,198,65,19,7,6,6,53,4712
+2024Q3,Claims,North America,678,170,75,23,18,18,48,4173
+2024Q3,Customer Service,Asia-Pacific,551,183,52,13,11,11,29,4001
+2024Q3,Customer Service,Europe,1756,508,156,37,32,32,31,4173
+2024Q3,Customer Service,Latin America,249,84,25,8,6,6,27,4071
+2024Q3,Customer Service,North America,945,288,92,20,18,18,24,4397
+2024Q3,Executive & Strategy,Asia-Pacific,63,20,7,2,2,2,96,7971
+2024Q3,Executive & Strategy,Europe,107,41,16,4,4,4,96,7035
+2024Q3,Executive & Strategy,Latin America,64,20,8,2,2,2,100,8232
+2024Q3,Executive & Strategy,North America,98,35,11,3,3,3,94,7337
+2024Q3,Finance,Asia-Pacific,60,31,12,3,3,3,40,3505
+2024Q3,Finance,Europe,365,110,49,13,11,11,46,4146
+2024Q3,Finance,Latin America,45,27,9,2,2,2,47,4126
+2024Q3,Finance,North America,142,50,20,6,5,5,51,3991
+2024Q3,HR,Asia-Pacific,82,37,11,4,3,3,43,4126
+2024Q3,HR,Europe,172,67,24,8,6,6,49,3468
+2024Q3,HR,North America,172,62,23,6,5,5,47,4382
+2024Q3,IT & Digital,Asia-Pacific,268,61,67,18,16,16,54,6121
+2024Q3,IT & Digital,Europe,446,204,141,47,34,34,60,6647
+2024Q3,IT & Digital,Latin America,176,46,45,13,11,11,64,8098
+2024Q3,IT & Digital,North America,337,128,98,33,26,26,65,7847
+2024Q3,Legal & Compliance,Asia-Pacific,59,24,7,2,2,2,44,3458
+2024Q3,Legal & Compliance,Europe,141,50,16,5,4,4,45,3364
+2024Q3,Legal & Compliance,Latin America,136,43,17,5,4,4,41,3353
+2024Q3,Legal & Compliance,North America,120,33,13,4,3,3,42,3741
+2024Q3,Operations,Asia-Pacific,124,48,15,5,4,4,44,4877
+2024Q3,Operations,Europe,494,177,73,17,15,15,43,3382
+2024Q3,Operations,Latin America,165,60,17,6,5,5,42,3923
+2024Q3,Operations,North America,235,68,24,7,6,6,42,5142
+2024Q3,Sales & Distribution,Asia-Pacific,757,304,109,32,26,26,33,4224
+2024Q3,Sales & Distribution,Europe,1964,651,200,60,50,50,38,3787
+2024Q3,Sales & Distribution,Latin America,339,118,26,10,8,8,37,4761
+2024Q3,Sales & Distribution,North America,820,298,101,28,23,23,34,4064
+2024Q3,Underwriting,Asia-Pacific,395,136,56,14,12,12,45,3780
+2024Q3,Underwriting,Europe,552,261,82,30,22,22,44,4193
+2024Q3,Underwriting,Latin America,77,39,11,3,3,3,40,4961
+2024Q3,Underwriting,North America,561,167,72,19,16,16,43,4423
+2024Q4,Actuarial & Risk,Asia-Pacific,33,14,8,2,2,2,73,8290
+2024Q4,Actuarial & Risk,Europe,249,95,46,17,14,14,75,8328
+2024Q4,Actuarial & Risk,Latin America,35,11,9,2,2,2,61,8151
+2024Q4,Actuarial & Risk,North America,88,25,22,7,5,5,69,7262
+2024Q4,Claims,Asia-Pacific,472,176,78,24,19,19,46,4653
+2024Q4,Claims,Europe,604,272,95,33,27,27,49,4041
+2024Q4,Claims,Latin America,273,110,44,12,10,10,38,4834
+2024Q4,Claims,North America,542,213,82,25,20,20,49,4640
+2024Q4,Customer Service,Asia-Pacific,380,162,32,10,9,9,26,3549
+2024Q4,Customer Service,Europe,1584,592,128,41,36,36,31,3903
+2024Q4,Customer Service,Latin America,395,119,32,9,8,8,28,4639
+2024Q4,Customer Service,North America,642,321,83,23,18,18,24,4041
+2024Q4,Executive & Strategy,Asia-Pacific,66,21,8,2,2,2,99,8027
+2024Q4,Executive & Strategy,Europe,212,70,24,7,6,6,92,7585
+2024Q4,Finance,Asia-Pacific,111,38,12,4,3,3,45,4622
+2024Q4,Finance,Europe,320,144,48,13,11,11,44,3750
+2024Q4,Finance,Latin America,97,33,14,3,3,3,47,4687
+2024Q4,Finance,North America,120,44,17,4,4,4,46,4252
+2024Q4,HR,Asia-Pacific,28,10,4,1,1,1,44,3011
+2024Q4,HR,Europe,238,64,32,7,6,6,36,4296
+2024Q4,HR,North America,68,25,9,2,2,2,46,3939
+2024Q4,IT & Digital,Asia-Pacific,227,85,67,19,17,17,56,6471
+2024Q4,IT & Digital,Europe,633,228,184,48,44,44,64,7997
+2024Q4,IT & Digital,Latin America,89,33,31,8,7,7,49,6750
+2024Q4,IT & Digital,North America,299,95,91,25,22,22,58,7419
+2024Q4,Legal & Compliance,Asia-Pacific,26,12,4,1,1,1,42,3401
+2024Q4,Legal & Compliance,Europe,243,86,32,10,8,8,46,3180
+2024Q4,Legal & Compliance,Latin America,107,33,11,3,3,3,38,4396
+2024Q4,Legal & Compliance,North America,105,36,13,4,3,3,41,4394
+2024Q4,Operations,Asia-Pacific,212,80,27,7,6,6,52,4041
+2024Q4,Operations,Europe,476,176,63,18,15,15,39,3469
+2024Q4,Operations,Latin America,114,46,19,5,4,4,45,3570
+2024Q4,Operations,North America,327,97,39,11,9,9,49,4072
+2024Q4,Sales & Distribution,Asia-Pacific,547,192,67,17,16,16,37,3121
+2024Q4,Sales & Distribution,Europe,1846,685,191,57,48,48,37,3572
+2024Q4,Sales & Distribution,Latin America,444,163,60,15,12,12,35,4898
+2024Q4,Sales & Distribution,North America,871,316,112,32,25,25,36,4742
+2024Q4,Underwriting,Asia-Pacific,160,52,19,6,5,5,43,4961
+2024Q4,Underwriting,Europe,523,174,65,20,16,16,48,5608
+2024Q4,Underwriting,Latin America,210,70,31,9,7,7,46,4501
+2024Q4,Underwriting,North America,365,98,49,14,12,12,41,4444
+2025Q1,Actuarial & Risk,Asia-Pacific,59,26,15,4,4,4,58,7464
+2025Q1,Actuarial & Risk,Europe,120,38,22,7,6,6,78,7073
+2025Q1,Actuarial & Risk,Latin America,33,13,7,3,2,2,71,7281
+2025Q1,Actuarial & Risk,North America,197,68,38,12,11,11,75,8460
+2025Q1,Claims,Asia-Pacific,493,160,63,19,16,16,47,4309
+2025Q1,Claims,Europe,811,308,141,38,31,31,43,5287
+2025Q1,Claims,Latin America,232,96,48,11,9,9,50,4097
+2025Q1,Claims,North America,719,199,89,27,21,21,47,3700
+2025Q1,Customer Service,Asia-Pacific,568,200,45,17,14,14,31,4101
+2025Q1,Customer Service,Europe,1014,347,95,28,22,22,27,4722
+2025Q1,Customer Service,Latin America,325,135,31,9,7,7,26,3947
+2025Q1,Customer Service,North America,746,239,74,22,19,19,24,4265
+2025Q1,Executive & Strategy,Asia-Pacific,28,13,4,1,1,1,104,7917
+2025Q1,Executive & Strategy,Europe,90,30,13,4,3,3,82,7919
+2025Q1,Executive & Strategy,Latin America,71,23,8,3,2,2,110,7356
+2025Q1,Executive & Strategy,North America,27,10,3,1,1,1,98,6721
+2025Q1,Finance,Europe,310,84,33,9,8,8,41,4744
+2025Q1,Finance,Latin America,206,72,28,7,6,6,45,3830
+2025Q1,Finance,North America,147,60,22,7,6,6,42,4519
+2025Q1,HR,Asia-Pacific,142,37,18,5,4,4,40,4182
+2025Q1,HR,Europe,138,44,12,5,4,4,49,3976
+2025Q1,HR,Latin America,51,23,8,2,2,2,40,4228
+2025Q1,HR,North America,142,57,16,6,5,5,45,4062
+2025Q1,IT & Digital,Asia-Pacific,154,56,52,14,12,12,65,8333
+2025Q1,IT & Digital,Europe,485,132,147,37,31,31,72,6858
+2025Q1,IT & Digital,Latin America,75,32,26,8,6,6,53,6086
+2025Q1,IT & Digital,North America,304,100,87,26,23,23,58,5695
+2025Q1,Legal & Compliance,Europe,184,70,26,8,6,6,40,4504
+2025Q1,Legal & Compliance,Latin America,37,11,4,1,1,1,46,3619
+2025Q1,Legal & Compliance,North America,95,33,11,3,3,3,51,4367
+2025Q1,Operations,Asia-Pacific,71,21,9,2,2,2,46,4519
+2025Q1,Operations,Europe,384,114,53,14,11,11,44,3314
+2025Q1,Operations,Latin America,55,21,8,2,2,2,46,4310
+2025Q1,Operations,North America,446,120,51,14,12,12,47,4279
+2025Q1,Sales & Distribution,Asia-Pacific,898,262,89,26,21,21,36,4611
+2025Q1,Sales & Distribution,Europe,2086,786,222,69,56,56,38,4395
+2025Q1,Sales & Distribution,Latin America,562,226,74,21,17,17,33,4578
+2025Q1,Sales & Distribution,North America,1285,393,105,36,30,30,35,3543
+2025Q1,Underwriting,Asia-Pacific,363,96,43,13,11,11,48,4557
+2025Q1,Underwriting,Europe,567,164,61,19,17,17,51,3601
+2025Q1,Underwriting,Latin America,211,62,25,7,6,6,45,4331
+2025Q1,Underwriting,North America,304,100,42,12,10,10,47,4133
+2025Q2,Actuarial & Risk,Asia-Pacific,97,29,18,6,5,5,69,7810
+2025Q2,Actuarial & Risk,Europe,128,45,26,9,7,7,68,8299
+2025Q2,Actuarial & Risk,North America,88,32,22,6,5,5,67,5364
+2025Q2,Claims,Asia-Pacific,453,162,53,21,15,15,47,4181
+2025Q2,Claims,Europe,725,314,113,35,27,27,48,4046
+2025Q2,Claims,Latin America,190,75,28,7,6,6,42,4499
+2025Q2,Claims,North America,391,133,57,16,13,13,45,3433
+2025Q2,Customer Service,Asia-Pacific,801,234,66,19,16,16,29,3943
+2025Q2,Customer Service,Europe,1463,492,116,36,34,34,32,4822
+2025Q2,Customer Service,Latin America,494,186,49,13,12,12,31,3412
+2025Q2,Customer Service,North America,839,324,80,28,23,23,29,3707
+2025Q2,Executive & Strategy,Asia-Pacific,87,49,16,5,4,4,98,7555
+2025Q2,Executive & Strategy,Europe,95,37,12,4,3,3,87,8250
+2025Q2,Executive & Strategy,North America,35,9,4,1,1,1,101,6264
+2025Q2,Finance,Asia-Pacific,108,30,11,4,3,3,44,3806
+2025Q2,Finance,Europe,293,97,42,12,10,10,45,4348
+2025Q2,Finance,Latin America,170,60,21,6,5,5,48,5070
+2025Q2,Finance,North America,161,56,21,6,5,5,49,3455
+2025Q2,HR,Asia-Pacific,60,22,8,2,2,2,42,4052
+2025Q2,HR,Europe,155,58,21,6,5,5,48,4501
+2025Q2,HR,North America,250,71,30,9,8,8,44,4469
+2025Q2,IT & Digital,Asia-Pacific,200,57,49,14,12,12,62,7654
+2025Q2,IT & Digital,Europe,551,190,192,53,46,46,61,7573
+2025Q2,IT & Digital,Latin America,224,85,60,19,14,14,53,9022
+2025Q2,IT & Digital,North America,419,148,125,33,29,29,64,7508
+2025Q2,Legal & Compliance,Asia-Pacific,62,20,8,2,2,2,52,4556
+2025Q2,Legal & Compliance,Europe,215,58,22,8,6,6,43,4285
+2025Q2,Legal & Compliance,Latin America,35,9,3,1,1,1,44,3524
+2025Q2,Legal & Compliance,North America,160,51,25,7,5,5,45,3576
+2025Q2,Operations,Asia-Pacific,235,65,24,7,6,6,46,4591
+2025Q2,Operations,Europe,507,184,60,18,15,15,37,4725
+2025Q2,Operations,Latin America,202,66,25,7,6,6,49,3498
+2025Q2,Operations,North America,330,95,40,11,10,10,45,4753
+2025Q2,Sales & Distribution,Asia-Pacific,554,196,58,18,14,14,30,4207
+2025Q2,Sales & Distribution,Europe,2370,885,275,76,67,67,33,3770
+2025Q2,Sales & Distribution,Latin America,410,140,39,12,10,10,35,4459
+2025Q2,Sales & Distribution,North America,1352,491,140,51,38,38,34,3644
+2025Q2,Underwriting,Asia-Pacific,211,88,34,9,8,8,50,4623
+2025Q2,Underwriting,Europe,632,197,71,20,16,16,38,4003
+2025Q2,Underwriting,Latin America,106,33,13,4,3,3,45,3912
+2025Q2,Underwriting,North America,321,92,37,12,9,9,50,4124
+2025Q3,Actuarial & Risk,Asia-Pacific,14,6,4,1,1,1,74,5557
+2025Q3,Actuarial & Risk,Europe,137,41,31,10,8,8,65,8096
+2025Q3,Actuarial & Risk,Latin America,37,13,8,2,2,2,73,8479
+2025Q3,Actuarial & Risk,North America,71,18,12,4,3,3,76,7002
+2025Q3,Claims,Asia-Pacific,361,120,63,18,15,15,44,4291
+2025Q3,Claims,Europe,1165,423,160,46,35,35,41,4704
+2025Q3,Claims,Latin America,385,107,50,14,11,11,47,4404
+2025Q3,Claims,North America,595,188,93,26,22,22,47,3967
+2025Q3,Customer Service,Asia-Pacific,798,228,68,18,15,15,28,4220
+2025Q3,Customer Service,Europe,1927,508,151,53,41,41,30,3651
+2025Q3,Customer Service,Latin America,320,117,26,9,7,7,30,4205
+2025Q3,Customer Service,North America,607,288,64,19,15,15,30,4542
+2025Q3,Executive & Strategy,Asia-Pacific,66,24,8,2,2,2,108,8464
+2025Q3,Executive & Strategy,Europe,93,34,12,4,3,3,106,8885
+2025Q3,Executive & Strategy,Latin America,27,11,4,1,1,1,98,5516
+2025Q3,Executive & Strategy,North America,28,12,4,1,1,1,89,7335
+2025Q3,Finance,Asia-Pacific,68,23,8,2,2,2,39,4231
+2025Q3,Finance,Europe,272,84,34,10,8,8,42,3727
+2025Q3,Finance,Latin America,150,39,15,5,4,4,43,5194
+2025Q3,Finance,North America,172,56,22,6,5,5,45,4865
+2025Q3,HR,Europe,171,49,17,6,5,5,47,3515
+2025Q3,HR,Latin America,65,24,7,3,2,2,45,4475
+2025Q3,HR,North America,72,25,8,3,2,2,45,4972
+2025Q3,IT & Digital,Asia-Pacific,223,74,71,20,16,16,63,7545
+2025Q3,IT & Digital,Europe,475,226,154,50,42,42,58,9205
+2025Q3,IT & Digital,Latin America,155,49,46,12,11,11,69,8992
+2025Q3,IT & Digital,North America,378,107,122,32,28,28,57,7036
+2025Q3,Legal & Compliance,Europe,180,54,22,6,5,5,46,3721
+2025Q3,Legal & Compliance,Latin America,68,32,12,3,3,3,51,4554
+2025Q3,Legal & Compliance,North America,33,11,4,1,1,1,54,3663
+2025Q3,Operations,Asia-Pacific,223,72,26,8,7,7,48,4468
+2025Q3,Operations,Europe,699,182,80,23,18,18,41,4990
+2025Q3,Operations,Latin America,235,74,30,8,7,7,41,3958
+2025Q3,Operations,North America,361,134,45,14,11,11,50,3725
+2025Q3,Sales & Distribution,Asia-Pacific,1470,393,141,35,32,32,37,3420
+2025Q3,Sales & Distribution,Europe,2053,900,252,77,61,61,33,5353
+2025Q3,Sales & Distribution,Latin America,330,102,32,10,8,8,36,4208
+2025Q3,Sales & Distribution,North America,1476,464,136,42,37,37,25,3756
+2025Q3,Underwriting,Asia-Pacific,202,83,27,9,7,7,53,4765
+2025Q3,Underwriting,Europe,659,182,72,21,19,19,44,4182
+2025Q3,Underwriting,Latin America,133,43,17,5,4,4,40,3158
+2025Q3,Underwriting,North America,221,69,23,7,6,6,49,5003
+2025Q4,Actuarial & Risk,Asia-Pacific,97,34,21,7,6,6,79,6820
+2025Q4,Actuarial & Risk,Europe,214,70,60,14,12,12,72,6389
+2025Q4,Actuarial & Risk,Latin America,68,18,13,4,3,3,78,7633
+2025Q4,Actuarial & Risk,North America,144,44,35,10,8,8,63,7886
+2025Q4,Claims,Asia-Pacific,329,85,39,12,10,10,44,4738
+2025Q4,Claims,Europe,1002,321,160,44,35,35,46,4026
+2025Q4,Claims,Latin America,377,129,57,18,14,14,43,3778
+2025Q4,Claims,North America,755,306,97,28,25,25,52,4596
+2025Q4,Customer Service,Asia-Pacific,391,151,29,11,9,9,30,3545
+2025Q4,Customer Service,Europe,1075,335,93,28,23,23,29,4474
+2025Q4,Customer Service,Latin America,696,205,56,19,14,14,24,3754
+2025Q4,Customer Service,North America,615,269,82,19,17,17,30,4225
+2025Q4,Executive & Strategy,Asia-Pacific,63,22,7,3,2,2,90,7213
+2025Q4,Executive & Strategy,Europe,135,46,14,5,4,4,101,7024
+2025Q4,Executive & Strategy,Latin America,33,11,3,1,1,1,100,8788
+2025Q4,Finance,Asia-Pacific,339,97,35,11,9,9,44,4308
+2025Q4,Finance,Europe,490,143,60,16,14,14,48,3112
+2025Q4,Finance,Latin America,95,35,11,4,3,3,44,4555
+2025Q4,Finance,North America,163,52,19,6,5,5,52,4484
+2025Q4,HR,Asia-Pacific,139,48,15,4,4,4,45,5028
+2025Q4,HR,Europe,156,62,23,6,5,5,45,6093
+2025Q4,HR,North America,70,21,8,2,2,2,50,4556
+2025Q4,IT & Digital,Asia-Pacific,269,79,75,23,20,20,54,7294
+2025Q4,IT & Digital,Europe,593,207,232,57,47,47,54,6389
+2025Q4,IT & Digital,Latin America,131,44,40,12,10,10,62,6964
+2025Q4,IT & Digital,North America,309,104,82,28,24,24,63,6629
+2025Q4,Legal & Compliance,Asia-Pacific,83,31,11,4,3,3,45,3803
+2025Q4,Legal & Compliance,Europe,123,51,14,5,4,4,47,4022
+2025Q4,Legal & Compliance,Latin America,57,20,7,3,2,2,43,3782
+2025Q4,Operations,Asia-Pacific,230,76,34,8,7,7,52,4096
+2025Q4,Operations,Europe,699,222,81,21,18,18,43,3807
+2025Q4,Operations,Latin America,102,43,15,4,4,4,48,4329
+2025Q4,Operations,North America,333,96,46,10,9,9,48,4443
+2025Q4,Sales & Distribution,Asia-Pacific,1130,349,116,32,24,24,36,3573
+2025Q4,Sales & Distribution,Europe,2416,795,301,75,65,65,30,4279
+2025Q4,Sales & Distribution,Latin America,506,220,52,17,15,15,35,3136
+2025Q4,Sales & Distribution,North America,791,271,82,21,19,19,38,4039
+2025Q4,Underwriting,Asia-Pacific,311,106,38,11,9,9,46,4240
+2025Q4,Underwriting,Europe,523,236,86,23,21,21,45,4608
+2025Q4,Underwriting,Latin America,191,54,18,7,5,5,47,2979
+2025Q4,Underwriting,North America,310,115,38,13,10,10,44,4876

@@ -1,0 +1,1 @@
+Chart.js v4.4.1 (src/vendor/chart.umd.js) - MIT License - https://github.com/chartjs/Chart.js/blob/master/LICENSE.md

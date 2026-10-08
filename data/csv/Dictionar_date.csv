@@ -1,0 +1,118 @@
+Foaie,Coloană,Tip,Unitate,Descriere
+Activitate_lunara,month,text,AAAA-LL,Luna la care se referă rândul
+Activitate_lunara,year,număr,an,Anul
+Activitate_lunara,quarter,text,AAAA-Tn,"Trimestrul (Q1 = ian–mar, Q2 = apr–iun, Q3 = iul–sep, Q4 = oct–dec)"
+Activitate_lunara,region,text,–,"Regiunea: Europe, North America, Asia-Pacific, Latin America"
+Activitate_lunara,country_code,text,cod ISO,"Codul țării din 2 litere (DE = Germania, RO = România etc.); legătura cu foaia Tari"
+Activitate_lunara,line_of_business,text,–,"Linia de business: Motor (auto), Property (locuințe și bunuri), Life (viață), Health (sănătate), Commercial (riscuri pentru firme)"
+Activitate_lunara,channel,text,–,"Canalul de vânzare: Agents (agenți), Brokers (brokeri), Direct Online (direct, pe internet), Bancassurance (prin bănci partenere)"
+Activitate_lunara,currency,text,cod ISO,"Moneda locală a țării (EUR, USD, RON etc.)"
+Activitate_lunara,gwp_eur,număr,EUR,"Prime brute subscrise (GWP): valoarea polițelor vândute în lună, înainte de reasigurare"
+Activitate_lunara,gwp_local_ccy,număr,monedă locală,"Aceleași prime brute, în moneda țării (arată efectul cursului valutar)"
+Activitate_lunara,net_earned_premium_eur,număr,EUR,"Prime nete câștigate (NEP): partea din prime aferentă lunii, după cedarea către reasigurători. Baza de calcul pentru rate"
+Activitate_lunara,claims_incurred_eur,număr,EUR,Daune întâmplate: daune plătite plus modificarea rezervelor pentru daunele încă nesoluționate
+Activitate_lunara,acquisition_costs_eur,număr,EUR,"Costuri de achiziție: comisioane pentru agenți, brokeri și bănci, plus marketing"
+Activitate_lunara,admin_expenses_eur,număr,EUR,"Cheltuieli administrative: salarii din back-office, IT, sedii"
+Activitate_lunara,policies_in_force,număr,polițe,Polițe active la sfârșitul lunii
+Activitate_lunara,new_policies,număr,polițe,Polițe noi vândute în lună
+Activitate_lunara,lapsed_policies,număr,polițe,Polițe pierdute în lună (nereînnoite sau anulate)
+Activitate_lunara,cat_event,text,–,"Numele evenimentului catastrofal care a afectat luna (furtună, uragan, inundații); gol dacă nu a fost cazul"
+Daune,claim_id,text,–,Codul unic al daunei
+Daune,reported_date,dată,AAAA-LL-ZZ,Data la care clientul a anunțat dauna
+Daune,region,text,–,"Regiunea: Europe, North America, Asia-Pacific, Latin America"
+Daune,country_code,text,cod ISO,"Codul țării din 2 litere (DE = Germania, RO = România etc.); legătura cu foaia Tari"
+Daune,line_of_business,text,–,"Linia de business: Motor (auto), Property (locuințe și bunuri), Life (viață), Health (sănătate), Commercial (riscuri pentru firme)"
+Daune,channel,text,–,"Canalul de vânzare: Agents (agenți), Brokers (brokeri), Direct Online (direct, pe internet), Bancassurance (prin bănci partenere)"
+Daune,cause,text,–,"Cauza daunei (Collision = coliziune, Theft = furt, Water damage = inundație din conducte, Storm = furtună etc.)"
+Daune,cat_event,text,–,"Evenimentul catastrofal asociat, dacă există"
+Daune,claim_amount_eur,număr,EUR,Suma cerută sau estimată inițial
+Daune,paid_amount_eur,număr,EUR,Suma plătită efectiv; 0 pentru daunele deschise sau respinse
+Daune,status,text,–,"Closed (închisă, plătită), Open (deschisă la 31.12.2025), Rejected (respinsă)"
+Daune,days_to_settle,număr,zile,Zile de la anunțare până la soluționare; gol pentru daunele deschise
+Daune,fraud_suspected,adevărat/fals,–,TRUE dacă dauna a fost marcată ca suspectă de fraudă
+Daune,customer_satisfaction_1_5,număr,scor 1–5,Satisfacția clientului după soluționare (5 = foarte mulțumit); gol pentru daunele deschise
+Buget,month,text,AAAA-LL,Luna la care se referă rândul
+Buget,year,număr,an,Anul
+Buget,region,text,–,"Regiunea: Europe, North America, Asia-Pacific, Latin America"
+Buget,line_of_business,text,–,"Linia de business: Motor (auto), Property (locuințe și bunuri), Life (viață), Health (sănătate), Commercial (riscuri pentru firme)"
+Buget,budget_gwp_eur,număr,EUR,Primele brute bugetate pentru lună
+Buget,target_combined_ratio,număr,fracție,"Combined ratio țintă (0,91 = 91%)"
+Rezultate_grup,quarter,text,AAAA-Tn,"Trimestrul (Q1 = ian–mar, Q2 = apr–iun, Q3 = iul–sep, Q4 = oct–dec)"
+Rezultate_grup,gwp_eur,număr,EUR,Prime brute subscrise în trimestru
+Rezultate_grup,net_earned_premium_eur,număr,EUR,Prime nete câștigate
+Rezultate_grup,claims_incurred_eur,număr,EUR,Daune întâmplate
+Rezultate_grup,acquisition_costs_eur,număr,EUR,Costuri de achiziție
+Rezultate_grup,admin_expenses_eur,număr,EUR,Cheltuieli administrative
+Rezultate_grup,investment_income_eur,număr,EUR,"Venituri din investiții (dobânzi, dividende, chirii)"
+Rezultate_grup,underwriting_result_eur,număr,EUR,Rezultat tehnic = NEP − daune − costuri de achiziție − cheltuieli administrative
+Rezultate_grup,other_expenses_eur,număr,EUR,Alte cheltuieli ale grupului (valoare negativă)
+Rezultate_grup,profit_before_tax_eur,număr,EUR,Profit înainte de impozit
+Rezultate_grup,tax_eur,număr,EUR,Impozit pe profit (25%)
+Rezultate_grup,net_income_eur,număr,EUR,Profit net
+Rezultate_grup,shares_outstanding,număr,acțiuni,Numărul de acțiuni în circulație (scade în 2024–2025 prin răscumpărări)
+Rezultate_grup,eps_eur,număr,EUR/acțiune,Profit pe acțiune (EPS) în trimestru
+Rezultate_grup,dividends_paid_eur,număr,EUR,"Dividende plătite (în Q2, din profitul anului anterior)"
+Rezultate_grup,shareholders_equity_eur,număr,EUR,Capitaluri proprii la sfârșitul trimestrului
+Rezultate_grup,dps_eur,număr,EUR/acțiune,Dividend pe acțiune (DPS)
+Rezultate_grup,roe_annualised,număr,fracție,"Rentabilitatea capitalurilor proprii (ROE), anualizată: profitul trimestrului × 4 / capitaluri"
+Rezultate_grup,solvency_ii_ratio,număr,fracție,"Rata de solvabilitate Solvency II (2,10 = 210%); minimum legal 100%"
+Rezultate_grup,share_price_eur_end,număr,EUR,Prețul acțiunii la sfârșitul trimestrului
+Rezultate_grup,market_cap_eur,număr,EUR,Capitalizarea bursieră = preț × acțiuni în circulație
+Investitii,quarter,text,AAAA-Tn,"Trimestrul (Q1 = ian–mar, Q2 = apr–iun, Q3 = iul–sep, Q4 = oct–dec)"
+Investitii,asset_class,text,–,"Clasa de active: obligațiuni de stat, obligațiuni corporative, acțiuni, imobiliare, numerar"
+Investitii,market_value_eur,număr,EUR,Valoarea de piață la sfârșitul trimestrului
+Investitii,investment_income_eur,număr,EUR,Venitul încasat în trimestru
+Investitii,unrealised_gain_loss_eur,număr,EUR,Câștig sau pierdere nerealizată din modificarea prețurilor (activul nu a fost vândut)
+Angajati,employee_id,text,–,Codul unic al angajatului
+Angajati,status,text,–,Active (activ la 31.12.2025) sau Left (a plecat)
+Angajati,gender,text,–,"F, M sau X (nedeclarat/non-binar)"
+Angajati,birth_year,număr,an,Anul nașterii
+Angajati,region,text,–,"Regiunea: Europe, North America, Asia-Pacific, Latin America"
+Angajati,country_code,text,cod ISO,"Codul țării din 2 litere (DE = Germania, RO = România etc.); legătura cu foaia Tari"
+Angajati,department,text,–,Departamentul angajatului
+Angajati,job_level,text,–,"Nivelul ierarhic: L1 (junior) până la L6 (director), EX (executiv)"
+Angajati,is_people_manager,adevărat/fals,–,TRUE dacă are oameni în subordine
+Angajati,work_model,text,–,"Hybrid (hibrid), Office (la birou), Remote (de acasă)"
+Angajati,hire_date,dată,AAAA-LL-ZZ,Data angajării (poate fi dinainte de 2021)
+Angajati,exit_date,dată,AAAA-LL-ZZ,Data plecării; gol pentru angajații activi
+Angajati,exit_type,text,–,"Voluntary (demisie), Involuntary (concediere), Retirement (pensionare)"
+Angajati,exit_reason,text,–,Motivul declarat al plecării
+Angajati,base_salary_eur,număr,EUR/an,"Salariul de bază anual brut, convertit în EUR, la data plecării sau la 31.12.2025"
+Angajati,bonus_target_pct,număr,fracție,"Bonusul țintă ca procent din salariu (0,12 = 12%)"
+Angajati,last_performance_rating_1_5,număr,scor 1–5,Ultima evaluare de performanță (3 = conform așteptărilor)
+Recrutare,quarter,text,AAAA-Tn,"Trimestrul (Q1 = ian–mar, Q2 = apr–iun, Q3 = iul–sep, Q4 = oct–dec)"
+Recrutare,department,text,–,Departamentul angajatului
+Recrutare,region,text,–,"Regiunea: Europe, North America, Asia-Pacific, Latin America"
+Recrutare,applications,număr,persoane,Candidaturi primite
+Recrutare,screened,număr,persoane,Candidați trecuți de preselecție
+Recrutare,interviews,număr,interviuri,Interviuri susținute
+Recrutare,offers_made,număr,oferte,Oferte de angajare făcute
+Recrutare,offers_accepted,număr,oferte,Oferte acceptate
+Recrutare,hires,număr,persoane,Angajări efective (coincid cu foaia Angajati)
+Recrutare,avg_time_to_hire_days,număr,zile,Timpul mediu de la deschiderea postului până la acceptarea ofertei
+Recrutare,cost_per_hire_eur,număr,EUR,"Costul mediu per angajare (anunțuri, recrutori, agenții)"
+Sondaje_angajati,survey_year,număr,an,Anul sondajului
+Sondaje_angajati,department,text,–,Departamentul angajatului
+Sondaje_angajati,region,text,–,"Regiunea: Europe, North America, Asia-Pacific, Latin America"
+Sondaje_angajati,headcount_invited,număr,persoane,Angajați invitați să răspundă
+Sondaje_angajati,participation_rate,număr,fracție,"Rata de participare (0,78 = 78%)"
+Sondaje_angajati,engagement_score_0_100,număr,scor 0–100,Indicele de engagement (implicare)
+Sondaje_angajati,enps,număr,puncte −100…+100,eNPS: % promotori minus % detractori la întrebarea „Ai recomanda compania ca loc de muncă?”
+Sondaje_angajati,manager_support_0_100,număr,scor 0–100,Sprijinul perceput din partea managerului
+Sondaje_angajati,workload_balance_0_100,număr,scor 0–100,Echilibrul volumului de muncă (mic = suprasolicitare)
+Sondaje_angajati,career_growth_0_100,număr,scor 0–100,Perspective de carieră percepute
+Sondaje_angajati,pay_fairness_0_100,număr,scor 0–100,Echitatea salarială percepută
+Tinte_strategice,year,număr,an,Anul
+Tinte_strategice,kpi,text,–,Numele indicatorului strategic
+Tinte_strategice,owner,text,–,Departamentul responsabil
+Tinte_strategice,unit,text,–,"Unitatea: ratio sau pct (fracție), points (puncte), days (zile), score (scor)"
+Tinte_strategice,direction,text,–,Dacă o valoare mai mare sau mai mică e de dorit
+Tinte_strategice,target,număr,vezi unit,Ținta anului
+Tinte_strategice,actual,număr,vezi unit,"Valoarea realizată, calculată din celelalte foi"
+Cursuri_valutare,month,text,AAAA-LL,Luna la care se referă rândul
+Cursuri_valutare,currency,text,cod ISO,"Moneda locală a țării (EUR, USD, RON etc.)"
+Cursuri_valutare,local_per_eur,număr,monedă locală,Câte unități de monedă locală valorează 1 EUR (media lunii)
+Tari,country_code,text,cod ISO,"Codul țării din 2 litere (DE = Germania, RO = România etc.); legătura cu foaia Tari"
+Tari,country,text,–,Denumirea țării
+Tari,region,text,–,"Regiunea: Europe, North America, Asia-Pacific, Latin America"
+Tari,currency,text,cod ISO,"Moneda locală a țării (EUR, USD, RON etc.)"

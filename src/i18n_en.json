@@ -1,0 +1,531 @@
+{
+  "gl": {
+    "Prime brute subscrise": {
+      "def": "The total value of policies sold in a period, before reinsurance. It shows the size of the business.",
+      "f": "Example: a €600 motor policy sold in March adds €600 to March GWP.",
+      "t": "Gross written premium (GWP)"
+    },
+    "Prime nete câștigate": {
+      "def": "The part of premium that relates to the period analysed, after deducting the share ceded to reinsurers. It is the period's “real” revenue.",
+      "f": "An annual €1,200 policy sold on 1 January “earns” €100 each month.",
+      "t": "Net earned premium (NEP)"
+    },
+    "Reasigurare": {
+      "def": "Insurance for the insurer: part of the risks and premium is ceded to another company, which takes on part of the large claims.",
+      "f": "InaVale cedes about 6% of its premium to reinsurers."
+    },
+    "Linie de business": {
+      "def": "A category of insurance products: motor, property, life, health, commercial risks.",
+      "f": "–"
+    },
+    "Canal de distribuție": {
+      "def": "How policies are sold: agents, brokers, direct online or through banks.",
+      "f": "–"
+    },
+    "Bancassurance": {
+      "def": "Selling insurance through a partner bank's network, for example when a loan is granted.",
+      "f": "–"
+    },
+    "Broker": {
+      "def": "An independent intermediary who represents the customer and looks for the right offer across several insurers.",
+      "f": "–"
+    },
+    "Polițe active": {
+      "def": "The number of policies in force at a given point in time.",
+      "f": "–"
+    },
+    "Rata de pierdere a polițelor": {
+      "def": "The percentage of policies that are not renewed or are cancelled.",
+      "f": "Lapsed policies / policies in force"
+    },
+    "Rata de retenție": {
+      "def": "The percentage of customers retained; the complement of the lapse rate.",
+      "f": "1 − lapse rate"
+    },
+    "Subscriere": {
+      "def": "The process through which the insurer assesses the risk and sets the price of the policy.",
+      "f": "–"
+    },
+    "Daune întâmplate": {
+      "def": "The cost of claims in a period: amounts paid plus the change in reserves for claims not yet settled.",
+      "f": "Payments + (closing reserves − opening reserves)"
+    },
+    "Rata daunei": {
+      "def": "How much of premium income goes on claims.",
+      "f": "Incurred claims / NEP. Example: €700 of claims on €1,000 NEP = 70%"
+    },
+    "Frecvența daunelor": {
+      "def": "How often claims occur relative to the number of policies.",
+      "f": "Number of claims / policies in force"
+    },
+    "Severitatea daunelor": {
+      "def": "The average cost of a claim.",
+      "f": "Total claims / number of claims"
+    },
+    "Eveniment catastrofal": {
+      "def": "A natural or man-made event that causes a very large number of claims at once: storms, hurricanes, floods, earthquakes.",
+      "f": "–"
+    },
+    "Rezerve de daune": {
+      "def": "Money set aside for claims that have occurred but have not yet been paid.",
+      "f": "–"
+    },
+    "Timp de soluționare": {
+      "def": "The days from the claim being reported until it is paid or closed. It directly affects customer satisfaction.",
+      "f": "–",
+      "t": "Settlement time (days to settle)"
+    },
+    "Fraudă suspectată": {
+      "def": "A claim flagged for additional checks because it shows signs of fraud.",
+      "f": "–"
+    },
+    "Rata cheltuielilor": {
+      "def": "What it costs to run the company, relative to premium.",
+      "f": "(Acquisition costs + administrative expenses) / NEP",
+      "t": "Expense ratio"
+    },
+    "Combined ratio": {
+      "def": "The most important indicator in insurance. Below 100% means the insurance business makes a profit; above 100% means a loss, possibly covered by investment income.",
+      "f": "Loss ratio + expense ratio. Example: 68% + 25% = 93%"
+    },
+    "Costuri de achiziție": {
+      "def": "The costs of selling policies: commissions to intermediaries and marketing.",
+      "f": "–"
+    },
+    "Rezultat tehnic": {
+      "def": "The profit from insurance activity, excluding investments.",
+      "f": "NEP − claims − expenses"
+    },
+    "Profit net": {
+      "def": "Profit after all expenses and taxes.",
+      "f": "–",
+      "t": "Net profit"
+    },
+    "Buget vs. realizat": {
+      "def": "Comparing actual results with planned ones.",
+      "f": "–",
+      "t": "Budget vs actual"
+    },
+    "Abatere": {
+      "def": "The difference between actual and budget (or the previous year), in absolute or percentage terms.",
+      "f": "Actual − budget"
+    },
+    "Curs valutar": {
+      "def": "The price of one currency expressed in another. For a global group, it changes the EUR value of local revenue.",
+      "f": "–"
+    },
+    "Efect valutar": {
+      "def": "The part of the growth or decline reported in EUR that comes only from exchange-rate movements, not from the business.",
+      "f": "–"
+    },
+    "Capitaluri proprii": {
+      "def": "The value that belongs to shareholders: assets minus liabilities.",
+      "f": "–"
+    },
+    "Rentabilitatea capitalurilor proprii": {
+      "def": "How much profit the company generates for every euro of shareholders' money.",
+      "f": "Net profit / shareholders' equity"
+    },
+    "Profit pe acțiune": {
+      "def": "Net profit divided by the number of shares.",
+      "f": "Net profit / shares outstanding"
+    },
+    "Dividend pe acțiune": {
+      "def": "The amount paid to shareholders for each share.",
+      "f": "–"
+    },
+    "Rata de distribuire": {
+      "def": "The share of profit paid out as dividends.",
+      "f": "Dividends / net profit"
+    },
+    "Capitalizare bursieră": {
+      "def": "The market value of the company.",
+      "f": "Share price × shares outstanding"
+    },
+    "Răscumpărare de acțiuni": {
+      "def": "The company buys back its own shares, reducing their number and increasing EPS.",
+      "f": "–"
+    },
+    "Rata de solvabilitate": {
+      "def": "How much capital the company holds relative to the minimum required by the European Solvency II regulation. Below 100% is not allowed; large insurers target 150–220%.",
+      "f": "Eligible own funds / solvency capital requirement (SCR)",
+      "t": "Solvency II ratio"
+    },
+    "Solvency II": {
+      "def": "The European directive that sets how much capital insurers must hold according to their risks.",
+      "f": "–"
+    },
+    "IFRS 17": {
+      "def": "The international accounting standard for insurance contracts, in force since 2023. The data in this set uses a simplified version.",
+      "f": "–"
+    },
+    "Câștig/pierdere nerealizată": {
+      "def": "The change in value of an asset that has not yet been sold. For example, bonds lose value when interest rates rise (2022).",
+      "f": "–"
+    },
+    "Randament": {
+      "def": "The annual income from an investment relative to its value.",
+      "f": "Annual income / market value"
+    },
+    "Clasă de active": {
+      "def": "A group of similar investments: bonds, equities, real estate, cash.",
+      "f": "–"
+    },
+    "Număr de angajați": {
+      "def": "The number of employees at a given date.",
+      "f": "–"
+    },
+    "Rata plecărilor": {
+      "def": "The percentage of employees who leave during a period.",
+      "f": "Leavers / average headcount"
+    },
+    "Plecări voluntare": {
+      "def": "Departures initiated by the employee (resignations). An important signal about the internal climate.",
+      "f": "–"
+    },
+    "Engagement": {
+      "def": "How involved in and attached to the company and their work employees are.",
+      "f": "Score 0–100 from the survey",
+      "t": "Employee engagement"
+    },
+    "eNPS": {
+      "def": "How strongly employees would recommend the company as a place to work. Ranges from −100 to +100.",
+      "f": "% promoters (9–10) − % detractors (0–6)"
+    },
+    "Timp de angajare": {
+      "def": "The number of days needed to fill a position.",
+      "f": "–"
+    },
+    "Pâlnie de recrutare": {
+      "def": "The successive stages of recruitment: applications → screening → interviews → offers → hires. Fewer candidates remain at each step.",
+      "f": "–"
+    },
+    "Diferență salarială de gen": {
+      "def": "The percentage difference between the average pay of women and men, ideally compared at the same level and role.",
+      "f": "(Men's average pay − women's average pay) / men's average pay"
+    },
+    "NPS clienți": {
+      "def": "How strongly customers would recommend the insurer.",
+      "f": "% promoters − % detractors",
+      "t": "Customer Net Promoter Score (NPS)"
+    },
+    "KPI": {
+      "def": "A key performance indicator: a figure chosen to track whether an objective is being met.",
+      "f": "–"
+    },
+    "Țintă": {
+      "def": "The value the company wants to reach for a KPI.",
+      "f": "–"
+    },
+    "Tabel de fapte": {
+      "def": "A table of measurable events (sales, claims, hires); it has many rows and numeric columns.",
+      "f": "Example: Daune (claims)"
+    },
+    "Tabel de dimensiuni": {
+      "def": "A table that describes the context of the facts: when, where, what, who.",
+      "f": "Example: Tari (countries)"
+    },
+    "Schemă stea": {
+      "def": "A data model with fact tables at the centre, linked to shared dimensions.",
+      "f": "–"
+    },
+    "Granularitate": {
+      "def": "What one row of a table represents. It decides what can be calculated from the table.",
+      "f": "Activitate_lunara: month × country × line × channel"
+    },
+    "Detaliere": {
+      "def": "Going down from an aggregate figure to its components, for example from group to region, country and line.",
+      "f": "–"
+    },
+    "Cohortă": {
+      "def": "A group of items with a common starting point, followed over time, for example the employees hired in 2022.",
+      "f": "–"
+    },
+    "Analiză Pareto": {
+      "def": "Identifying the few items that produce most of the effect (the 80/20 rule).",
+      "f": "–"
+    },
+    "Rată anuală compusă de creștere": {
+      "def": "The average annual growth over several years.",
+      "f": "(Final value / initial value)^(1/years) − 1",
+      "t": "Compound annual growth rate (CAGR)"
+    },
+    "Anualizare": {
+      "def": "Converting a quarterly or monthly value into an annual one, for comparison.",
+      "f": "Quarterly value × 4"
+    },
+    "Date sintetice": {
+      "def": "Artificially generated data that is statistically realistic but does not describe real people or companies.",
+      "f": "This entire dataset"
+    },
+    "Prognoză": {
+      "def": "An estimate of the future value of an indicator based on history and a set of assumptions. A good forecast always comes with an interval, not a single number.",
+      "f": "Here: trend + seasonality, estimated on 2021–2025"
+    },
+    "Interval de prognoză": {
+      "def": "The range within which the future value is expected to fall with a given probability. An 80% interval means that in 8 cases out of 10 the actual result will fall inside it.",
+      "f": "The noisier the history, the wider the interval"
+    },
+    "Tendință": {
+      "def": "The general direction of a series, after removing seasonal swings and noise.",
+      "f": "Here: average monthly growth, estimated by linear regression"
+    },
+    "Sezonalitate": {
+      "def": "A pattern that repeats every year in the same months, for example the January premium peak when company policies renew.",
+      "f": "Seasonal index = the month's average deviation from the annual average"
+    },
+    "Rata daunei de bază": {
+      "def": "The loss ratio excluding catastrophe events. It shows the portfolio's “normal” level and is much more predictable than the total loss ratio.",
+      "f": "(Claims − catastrophe cost) / NEP"
+    },
+    "Încărcare pentru catastrofe": {
+      "def": "The amount an insurer allows for catastrophes in its plan, even without knowing when they will happen. It is calculated from the multi-year average cost.",
+      "f": "Average annual catastrophe cost / NEP"
+    },
+    "Scenariu": {
+      "def": "A combination of assumptions about the future (“what if”) and their calculated effect on the indicators.",
+      "f": "Scenario = base + the effect of each lever"
+    },
+    "Ipoteză": {
+      "def": "A value chosen by the analyst, not measured, on which a calculation rests. Assumptions should be visible and easy to change.",
+      "f": "Here: all the sliders in the “What we do” layer"
+    },
+    "Elasticitatea cererii": {
+      "def": "How much sales volume falls when the price rises. An elasticity of 0.6 means that a +10% price increase loses about 6% of policies.",
+      "f": "Change in volume / change in price"
+    },
+    "Test de stres": {
+      "def": "Simulating a severe shock (a market crash, rising interest rates, a catastrophe) to see whether the company stays solvent.",
+      "f": "–"
+    },
+    "Retenție la reasigurare": {
+      "def": "The part of a large claim the insurer keeps. Above this threshold, up to a limit, the reinsurer pays.",
+      "f": "Net loss = min(loss, retention) + the excess above the treaty limit"
+    },
+    "Durată": {
+      "def": "The sensitivity of a bond's price to interest rates. With a duration of 6 years, a 1 percentage point rise in rates cuts the value by about 6%.",
+      "f": "Δ value ≈ −duration × Δ interest rate"
+    },
+    "Cost de înlocuire": {
+      "def": "What it costs to replace an employee who leaves: recruitment, training, lost productivity. Typical estimates range from 30% to 100% of annual salary.",
+      "f": "Leavers × average salary × replacement percentage"
+    },
+    "Rentabilitatea investiției": {
+      "def": "The net gain from an action relative to its cost.",
+      "f": "(Benefit − cost) / cost"
+    },
+    "Segment": {
+      "def": "A part of the business analysed separately: a region, a line of business or a distribution channel.",
+      "f": "–"
+    },
+    "Pondere": {
+      "def": "How much a segment represents of the total. Here, the weight is calculated from net earned premium.",
+      "f": "Segment value / total",
+      "t": "Weight (share)"
+    },
+    "Analiză de mix": {
+      "def": "Splits the change in a group indicator into two effects: the segments themselves improved or deteriorated (rate effect), and their weights changed (mix effect).",
+      "f": "Δ total = Σ old weight × Δ rate + Σ Δ weight × new rate"
+    },
+    "Efect de rată": {
+      "def": "The part of the change in the group indicator that comes from the change in each segment's performance, at constant weights.",
+      "f": "Σ old weight × (new rate − old rate)"
+    },
+    "Efect de mix": {
+      "def": "The part of the change in the group indicator that comes only from the change in segment weights, for example more sales in profitable segments.",
+      "f": "Σ (new weight − old weight) × new rate"
+    },
+    "Matrice creștere–profitabilitate": {
+      "def": "A four-quadrant chart that places each segment by growth and profitability, to show what should be grown, protected, fixed or rethought.",
+      "f": "The thresholds are the group average"
+    },
+    "Prima medie": {
+      "def": "What a customer pays on average per year for a policy.",
+      "f": "Annual gross written premium / average policies in force"
+    },
+    "Matrice de legături": {
+      "def": "A table showing which dimensions each fact table uses. It tells you at a glance what can be combined with what.",
+      "f": "● = the table has that dimension"
+    },
+    "Dicționar de date": {
+      "def": "The list of all columns in the data, with their type, unit and meaning. The first document an analyst reads.",
+      "f": "–"
+    },
+    "Eșantion": {
+      "def": "A randomly chosen part of the data, used instead of the whole. Results are estimates, not exact totals.",
+      "f": "Here: 25,000 claim files"
+    },
+    "Punct procentual": {
+      "def": "The difference between two percentages. If the loss ratio goes from 70% to 72%, it has risen by 2 percentage points (2 pp), but by 2.9% in relative terms.",
+      "f": "72% − 70% = +2 pp"
+    },
+    "Punct (scor)": {
+      "def": "The difference between two scores that are not percentages, such as NPS, eNPS, engagement or customer satisfaction.",
+      "f": "NPS 21.1 → 24.9 = +3.8 points",
+      "t": "Point (score)"
+    },
+    "Flux, stoc și rată": {
+      "def": "Three types of indicators that aggregate differently over a period: flows are added up, stocks are taken at the end, ratios are recalculated from the totals.",
+      "f": "Premium = flow; headcount = stock; combined ratio = ratio"
+    }
+  },
+  "glDom": {
+    "Asigurări – business": "Insurance – business",
+    "Daune": "Claims",
+    "Financiar": "Finance",
+    "Investitori": "Investors",
+    "Risc și reglementare": "Risk and regulation",
+    "Investiții": "Investments",
+    "Resurse umane": "Human resources",
+    "Clienți": "Customers",
+    "Analiză de date": "Data analysis"
+  },
+  "dict": {
+    "Activitate_lunara.month": "The month the row refers to",
+    "Activitate_lunara.year": "The year",
+    "Activitate_lunara.quarter": "The quarter (Q1 = Jan–Mar, Q2 = Apr–Jun, Q3 = Jul–Sep, Q4 = Oct–Dec)",
+    "Activitate_lunara.region": "Region: Europe, North America, Asia-Pacific, Latin America",
+    "Activitate_lunara.country_code": "Two-letter country code (DE = Germany, RO = Romania, etc.); the link to the Tari sheet",
+    "Activitate_lunara.line_of_business": "Line of business: Motor, Property (homes and contents), Life, Health, Commercial (business risks)",
+    "Activitate_lunara.channel": "Distribution channel: Agents, Brokers, Direct Online (direct, over the internet), Bancassurance (through partner banks)",
+    "Activitate_lunara.currency": "The country's local currency (EUR, USD, RON, etc.)",
+    "Activitate_lunara.gwp_eur": "Gross written premium (GWP): the value of policies sold in the month, before reinsurance",
+    "Activitate_lunara.gwp_local_ccy": "The same gross premium in the country's currency (shows the exchange-rate effect)",
+    "Activitate_lunara.net_earned_premium_eur": "Net earned premium (NEP): the part of premium relating to the month, after cessions to reinsurers. The basis for calculating ratios",
+    "Activitate_lunara.claims_incurred_eur": "Incurred claims: claims paid plus the change in reserves for claims not yet settled",
+    "Activitate_lunara.acquisition_costs_eur": "Acquisition costs: commissions for agents, brokers and banks, plus marketing",
+    "Activitate_lunara.admin_expenses_eur": "Administrative expenses: back-office salaries, IT, premises",
+    "Activitate_lunara.policies_in_force": "Policies in force at the end of the month",
+    "Activitate_lunara.new_policies": "New policies sold in the month",
+    "Activitate_lunara.lapsed_policies": "Policies lapsed in the month (not renewed or cancelled)",
+    "Activitate_lunara.cat_event": "Name of the catastrophe event that affected the month (storm, hurricane, floods); empty if none",
+    "Daune.claim_id": "Unique claim identifier",
+    "Daune.reported_date": "The date the customer reported the claim",
+    "Daune.region": "Region: Europe, North America, Asia-Pacific, Latin America",
+    "Daune.country_code": "Two-letter country code (DE = Germany, RO = Romania, etc.); the link to the Tari sheet",
+    "Daune.line_of_business": "Line of business: Motor, Property (homes and contents), Life, Health, Commercial (business risks)",
+    "Daune.channel": "Distribution channel: Agents, Brokers, Direct Online (direct, over the internet), Bancassurance (through partner banks)",
+    "Daune.cause": "Cause of the claim (Collision, Theft, Water damage = escape of water, Storm, etc.)",
+    "Daune.cat_event": "The associated catastrophe event, if any",
+    "Daune.claim_amount_eur": "The amount initially claimed or estimated",
+    "Daune.paid_amount_eur": "The amount actually paid; 0 for open or rejected claims",
+    "Daune.status": "Closed (closed and paid), Open (still open at 31 Dec 2025), Rejected",
+    "Daune.days_to_settle": "Days from reporting to settlement; empty for open claims",
+    "Daune.fraud_suspected": "TRUE if the claim was flagged as suspected fraud",
+    "Daune.customer_satisfaction_1_5": "Customer satisfaction after settlement (5 = very satisfied); empty for open claims",
+    "Buget.month": "The month the row refers to",
+    "Buget.year": "The year",
+    "Buget.region": "Region: Europe, North America, Asia-Pacific, Latin America",
+    "Buget.line_of_business": "Line of business: Motor, Property (homes and contents), Life, Health, Commercial (business risks)",
+    "Buget.budget_gwp_eur": "Budgeted gross written premium for the month",
+    "Buget.target_combined_ratio": "Target combined ratio (0.91 = 91%)",
+    "Rezultate_grup.quarter": "The quarter (Q1 = Jan–Mar, Q2 = Apr–Jun, Q3 = Jul–Sep, Q4 = Oct–Dec)",
+    "Rezultate_grup.gwp_eur": "Gross written premium in the quarter",
+    "Rezultate_grup.net_earned_premium_eur": "Net earned premium",
+    "Rezultate_grup.claims_incurred_eur": "Incurred claims",
+    "Rezultate_grup.acquisition_costs_eur": "Acquisition costs",
+    "Rezultate_grup.admin_expenses_eur": "Administrative expenses",
+    "Rezultate_grup.investment_income_eur": "Investment income (interest, dividends, rents)",
+    "Rezultate_grup.underwriting_result_eur": "Underwriting result = NEP − claims − acquisition costs − administrative expenses",
+    "Rezultate_grup.other_expenses_eur": "Other group expenses (negative value)",
+    "Rezultate_grup.profit_before_tax_eur": "Profit before tax",
+    "Rezultate_grup.tax_eur": "Corporate income tax (25%)",
+    "Rezultate_grup.net_income_eur": "Net profit",
+    "Rezultate_grup.shares_outstanding": "Number of shares outstanding (falls in 2024–2025 through buybacks)",
+    "Rezultate_grup.eps_eur": "Earnings per share (EPS) in the quarter",
+    "Rezultate_grup.dividends_paid_eur": "Dividends paid (in Q2, out of the previous year's profit)",
+    "Rezultate_grup.shareholders_equity_eur": "Shareholders' equity at the end of the quarter",
+    "Rezultate_grup.dps_eur": "Dividend per share (DPS)",
+    "Rezultate_grup.roe_annualised": "Return on equity (ROE), annualised: quarterly profit × 4 / equity",
+    "Rezultate_grup.solvency_ii_ratio": "Solvency II ratio (2.10 = 210%); regulatory minimum 100%",
+    "Rezultate_grup.share_price_eur_end": "Share price at the end of the quarter",
+    "Rezultate_grup.market_cap_eur": "Market capitalisation = price × shares outstanding",
+    "Investitii.quarter": "The quarter (Q1 = Jan–Mar, Q2 = Apr–Jun, Q3 = Jul–Sep, Q4 = Oct–Dec)",
+    "Investitii.asset_class": "Asset class: government bonds, corporate bonds, equities, real estate, cash",
+    "Investitii.market_value_eur": "Market value at the end of the quarter",
+    "Investitii.investment_income_eur": "Income received in the quarter",
+    "Investitii.unrealised_gain_loss_eur": "Unrealised gain or loss from price changes (the asset has not been sold)",
+    "Angajati.employee_id": "Unique employee identifier",
+    "Angajati.status": "Active (employed at 31 Dec 2025) or Left",
+    "Angajati.gender": "F, M or X (undeclared/non-binary)",
+    "Angajati.birth_year": "Year of birth",
+    "Angajati.region": "Region: Europe, North America, Asia-Pacific, Latin America",
+    "Angajati.country_code": "Two-letter country code (DE = Germany, RO = Romania, etc.); the link to the Tari sheet",
+    "Angajati.department": "The employee's department",
+    "Angajati.job_level": "Job level: L1 (junior) to L6 (director), EX (executive)",
+    "Angajati.is_people_manager": "TRUE if the employee manages people",
+    "Angajati.work_model": "Hybrid, Office or Remote",
+    "Angajati.hire_date": "Hire date (may be before 2021)",
+    "Angajati.exit_date": "Exit date; empty for active employees",
+    "Angajati.exit_type": "Voluntary (resignation), Involuntary (dismissal), Retirement",
+    "Angajati.exit_reason": "The stated reason for leaving",
+    "Angajati.base_salary_eur": "Gross annual base salary, converted to EUR, at the exit date or at 31 Dec 2025",
+    "Angajati.bonus_target_pct": "Target bonus as a percentage of salary (0.12 = 12%)",
+    "Angajati.last_performance_rating_1_5": "Latest performance rating (3 = meets expectations)",
+    "Recrutare.quarter": "The quarter (Q1 = Jan–Mar, Q2 = Apr–Jun, Q3 = Jul–Sep, Q4 = Oct–Dec)",
+    "Recrutare.department": "The employee's department",
+    "Recrutare.region": "Region: Europe, North America, Asia-Pacific, Latin America",
+    "Recrutare.applications": "Applications received",
+    "Recrutare.screened": "Candidates who passed screening",
+    "Recrutare.interviews": "Interviews held",
+    "Recrutare.offers_made": "Job offers made",
+    "Recrutare.offers_accepted": "Offers accepted",
+    "Recrutare.hires": "Actual hires (match the Angajati sheet)",
+    "Recrutare.avg_time_to_hire_days": "Average time from opening the position to the offer being accepted",
+    "Recrutare.cost_per_hire_eur": "Average cost per hire (job ads, recruiters, agencies)",
+    "Sondaje_angajati.survey_year": "Survey year",
+    "Sondaje_angajati.department": "The employee's department",
+    "Sondaje_angajati.region": "Region: Europe, North America, Asia-Pacific, Latin America",
+    "Sondaje_angajati.headcount_invited": "Employees invited to respond",
+    "Sondaje_angajati.participation_rate": "Participation rate (0.78 = 78%)",
+    "Sondaje_angajati.engagement_score_0_100": "Engagement index",
+    "Sondaje_angajati.enps": "eNPS: % promoters minus % detractors on the question “Would you recommend the company as a place to work?”",
+    "Sondaje_angajati.manager_support_0_100": "Perceived support from the manager",
+    "Sondaje_angajati.workload_balance_0_100": "Workload balance (low = overload)",
+    "Sondaje_angajati.career_growth_0_100": "Perceived career prospects",
+    "Sondaje_angajati.pay_fairness_0_100": "Perceived pay fairness",
+    "Tinte_strategice.year": "The year",
+    "Tinte_strategice.kpi": "Name of the strategic KPI",
+    "Tinte_strategice.owner": "The responsible department",
+    "Tinte_strategice.unit": "Unit: ratio or pct (fraction), points, days, score",
+    "Tinte_strategice.direction": "Whether a higher or a lower value is better",
+    "Tinte_strategice.target": "The target for the year",
+    "Tinte_strategice.actual": "The actual value, calculated from the other sheets",
+    "Cursuri_valutare.month": "The month the row refers to",
+    "Cursuri_valutare.currency": "The country's local currency (EUR, USD, RON, etc.)",
+    "Cursuri_valutare.local_per_eur": "Units of local currency per 1 EUR (monthly average)",
+    "Tari.country_code": "Two-letter country code (DE = Germany, RO = Romania, etc.); the link to the Tari sheet",
+    "Tari.country": "Country name",
+    "Tari.region": "Region: Europe, North America, Asia-Pacific, Latin America",
+    "Tari.currency": "The country's local currency (EUR, USD, RON, etc.)"
+  },
+  "dictType": {
+    "număr": "number",
+    "text": "text",
+    "dată": "date",
+    "adevărat/fals": "true/false"
+  },
+  "dictFmt": {
+    "–": "–",
+    "EUR": "EUR",
+    "cod ISO": "ISO code",
+    "an": "year",
+    "fracție": "fraction",
+    "scor 0–100": "score 0–100",
+    "AAAA-Tn": "YYYY-Qn",
+    "persoane": "people",
+    "AAAA-LL": "YYYY-MM",
+    "polițe": "policies",
+    "AAAA-LL-ZZ": "YYYY-MM-DD",
+    "monedă locală": "local currency",
+    "zile": "days",
+    "scor 1–5": "score 1–5",
+    "EUR/acțiune": "EUR/share",
+    "oferte": "offers",
+    "vezi unit": "see unit",
+    "acțiuni": "shares",
+    "EUR/an": "EUR/year",
+    "interviuri": "interviews",
+    "puncte −100…+100": "points −100…+100"
+  }
+}

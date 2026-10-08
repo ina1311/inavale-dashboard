@@ -1,0 +1,51 @@
+year,kpi,owner,unit,direction,target,actual
+2021,Combined ratio,Finance / Underwriting,ratio,lower is better,0.93,0.8969
+2022,Combined ratio,Finance / Underwriting,ratio,lower is better,0.92,0.9261
+2023,Combined ratio,Finance / Underwriting,ratio,lower is better,0.915,0.9651
+2024,Combined ratio,Finance / Underwriting,ratio,lower is better,0.91,0.9551
+2025,Combined ratio,Finance / Underwriting,ratio,lower is better,0.905,0.8768
+2021,GWP growth,Sales & Distribution,pct,higher is better,0.05,0.041
+2022,GWP growth,Sales & Distribution,pct,higher is better,0.06,0.07
+2023,GWP growth,Sales & Distribution,pct,higher is better,0.07,0.0896
+2024,GWP growth,Sales & Distribution,pct,higher is better,0.07,0.094
+2025,GWP growth,Sales & Distribution,pct,higher is better,0.07,0.0838
+2021,Return on equity,CFO,pct,higher is better,0.11,0.1069
+2022,Return on equity,CFO,pct,higher is better,0.115,0.1191
+2023,Return on equity,CFO,pct,higher is better,0.12,0.0977
+2024,Return on equity,CFO,pct,higher is better,0.125,0.1097
+2025,Return on equity,CFO,pct,higher is better,0.13,0.1707
+2021,Solvency II ratio (year-end),Actuarial & Risk,ratio,higher is better (min 1.5 internal),1.8,2.2495
+2022,Solvency II ratio (year-end),Actuarial & Risk,ratio,higher is better (min 1.5 internal),1.8,1.6948
+2023,Solvency II ratio (year-end),Actuarial & Risk,ratio,higher is better (min 1.5 internal),1.8,1.8422
+2024,Solvency II ratio (year-end),Actuarial & Risk,ratio,higher is better (min 1.5 internal),1.8,1.9198
+2025,Solvency II ratio (year-end),Actuarial & Risk,ratio,higher is better (min 1.5 internal),1.8,2.1884
+2021,Digital share of new policies,IT & Digital,pct,higher is better,0.5,0.4497
+2022,Digital share of new policies,IT & Digital,pct,higher is better,0.53,0.5177
+2023,Digital share of new policies,IT & Digital,pct,higher is better,0.56,0.534
+2024,Digital share of new policies,IT & Digital,pct,higher is better,0.59,0.5507
+2025,Digital share of new policies,IT & Digital,pct,higher is better,0.62,0.592
+2021,Customer NPS,Customer Service,points,higher is better,22.0,25.0572
+2022,Customer NPS,Customer Service,points,higher is better,23.0,26.1301
+2023,Customer NPS,Customer Service,points,higher is better,24.0,22.4712
+2024,Customer NPS,Customer Service,points,higher is better,26.0,21.0718
+2025,Customer NPS,Customer Service,points,higher is better,28.0,24.8599
+2021,Median claim settlement (days),Claims,days,lower is better,22.0,20.0
+2022,Median claim settlement (days),Claims,days,lower is better,21.0,20.0
+2023,Median claim settlement (days),Claims,days,lower is better,20.0,24.0
+2024,Median claim settlement (days),Claims,days,lower is better,20.0,23.0
+2025,Median claim settlement (days),Claims,days,lower is better,19.0,18.0
+2021,Employee engagement (0-100),HR,score,higher is better,75.0,74.8865
+2022,Employee engagement (0-100),HR,score,higher is better,76.0,72.6765
+2023,Employee engagement (0-100),HR,score,higher is better,76.0,74.4844
+2024,Employee engagement (0-100),HR,score,higher is better,77.0,75.2877
+2025,Employee engagement (0-100),HR,score,higher is better,77.0,76.1565
+2021,Voluntary attrition,HR,pct,lower is better,0.13,0.1357
+2022,Voluntary attrition,HR,pct,lower is better,0.13,0.1613
+2023,Voluntary attrition,HR,pct,lower is better,0.125,0.1492
+2024,Voluntary attrition,HR,pct,lower is better,0.12,0.1363
+2025,Voluntary attrition,HR,pct,lower is better,0.12,0.1387
+2021,Women in senior leadership (L5+),HR / Executive,pct,higher is better,0.33,0.3514
+2022,Women in senior leadership (L5+),HR / Executive,pct,higher is better,0.35,0.3588
+2023,Women in senior leadership (L5+),HR / Executive,pct,higher is better,0.37,0.3615
+2024,Women in senior leadership (L5+),HR / Executive,pct,higher is better,0.39,0.3761
+2025,Women in senior leadership (L5+),HR / Executive,pct,higher is better,0.4,0.3778

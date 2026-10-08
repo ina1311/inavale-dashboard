@@ -1,0 +1,221 @@
+survey_year,department,region,headcount_invited,participation_rate,engagement_score_0_100,enps,manager_support_0_100,workload_balance_0_100,career_growth_0_100,pay_fairness_0_100
+2021,Actuarial & Risk,Asia-Pacific,75,0.791,78.3,21,72.3,73.6,67.9,73.0
+2021,Actuarial & Risk,Europe,216,0.822,77.0,22,78.9,69.4,72.1,73.6
+2021,Actuarial & Risk,Latin America,52,0.769,74.4,9,73.9,67.5,71.2,65.6
+2021,Actuarial & Risk,North America,123,0.749,77.0,19,74.0,71.2,77.0,66.7
+2021,Claims,Asia-Pacific,271,0.921,76.4,13,72.6,69.1,77.8,74.5
+2021,Claims,Europe,776,0.809,75.4,14,74.7,63.6,74.5,64.9
+2021,Claims,Latin America,187,0.784,78.1,29,82.6,68.6,73.3,73.2
+2021,Claims,North America,441,0.76,74.8,13,71.0,65.1,65.7,67.7
+2021,Customer Service,Asia-Pacific,208,0.826,69.2,-2,71.9,63.0,67.5,60.9
+2021,Customer Service,Europe,596,0.839,69.5,3,77.3,63.1,63.8,57.2
+2021,Customer Service,Latin America,144,0.715,63.8,-14,62.1,50.0,61.6,54.0
+2021,Customer Service,North America,338,0.758,69.8,-1,72.2,58.6,65.1,60.2
+2021,Executive & Strategy,Asia-Pacific,30,0.728,81.9,37,84.7,80.7,75.8,76.3
+2021,Executive & Strategy,Europe,86,0.705,78.8,22,78.4,69.9,72.5,66.5
+2021,Executive & Strategy,Latin America,20,0.797,82.7,30,79.0,79.8,77.6,74.7
+2021,Executive & Strategy,North America,48,0.753,76.9,20,76.4,71.0,68.6,64.0
+2021,Finance,Asia-Pacific,75,0.876,81.2,30,88.0,76.6,78.6,71.5
+2021,Finance,Europe,216,0.87,75.5,19,74.6,68.1,75.5,66.0
+2021,Finance,Latin America,52,0.735,75.2,16,80.7,71.7,71.9,67.6
+2021,Finance,North America,123,0.779,74.7,17,79.1,69.9,66.9,65.1
+2021,HR,Asia-Pacific,45,0.783,78.9,18,81.9,80.7,71.2,71.1
+2021,HR,Europe,130,0.759,80.8,26,82.3,76.5,75.6,75.8
+2021,HR,Latin America,32,0.813,72.2,7,72.7,67.3,68.3,68.2
+2021,HR,North America,74,0.778,72.1,0,69.7,65.3,63.4,61.5
+2021,IT & Digital,Asia-Pacific,156,0.755,76.0,16,79.9,64.2,71.4,70.6
+2021,IT & Digital,Europe,449,0.85,77.8,15,77.3,73.5,76.6,70.6
+2021,IT & Digital,Latin America,109,0.792,77.3,16,78.8,73.8,72.3,72.8
+2021,IT & Digital,North America,255,0.764,69.8,6,73.4,68.1,66.2,58.3
+2021,Legal & Compliance,Asia-Pacific,45,0.856,79.9,18,78.1,68.8,74.3,70.6
+2021,Legal & Compliance,Europe,130,0.739,76.4,24,79.4,69.0,69.4,63.9
+2021,Legal & Compliance,Latin America,32,0.879,74.3,11,72.2,68.2,68.8,63.6
+2021,Legal & Compliance,North America,74,0.777,74.9,19,79.6,71.9,71.6,68.3
+2021,Operations,Asia-Pacific,120,0.778,80.1,28,80.0,77.6,73.4,74.2
+2021,Operations,Europe,344,0.822,79.2,27,78.9,71.6,74.0,70.1
+2021,Operations,Latin America,83,0.758,75.6,12,73.8,70.7,69.4,68.4
+2021,Operations,North America,196,0.865,81.1,29,85.2,75.9,84.3,78.1
+2021,Sales & Distribution,Asia-Pacific,331,0.773,75.0,12,77.7,69.0,70.3,69.1
+2021,Sales & Distribution,Europe,949,0.681,72.3,2,69.8,66.1,65.7,63.7
+2021,Sales & Distribution,Latin America,229,0.854,68.6,-2,67.0,63.5,68.3,63.1
+2021,Sales & Distribution,North America,540,0.811,75.9,19,73.3,65.6,70.1,70.9
+2021,Underwriting,Asia-Pacific,150,0.787,81.8,37,85.8,75.6,75.6,71.9
+2021,Underwriting,Europe,432,0.851,77.7,23,74.8,68.0,76.2,70.3
+2021,Underwriting,Latin America,104,0.815,74.2,17,77.7,68.6,74.3,65.1
+2021,Underwriting,North America,244,0.734,75.8,23,83.3,69.7,73.7,69.2
+2022,Actuarial & Risk,Asia-Pacific,78,0.841,77.9,23,78.7,70.4,70.9,62.1
+2022,Actuarial & Risk,Europe,220,0.739,74.0,11,74.8,65.0,68.6,67.3
+2022,Actuarial & Risk,Latin America,53,0.737,72.3,3,75.1,67.1,69.3,63.9
+2022,Actuarial & Risk,North America,125,0.786,75.5,24,75.1,67.4,76.5,67.3
+2022,Claims,Asia-Pacific,282,0.803,73.4,-1,75.7,67.5,70.2,63.0
+2022,Claims,Europe,792,0.797,76.4,17,78.6,68.0,72.1,64.0
+2022,Claims,Latin America,191,0.795,71.7,5,75.0,63.8,67.4,61.7
+2022,Claims,North America,450,0.82,75.7,19,78.4,67.3,72.3,64.6
+2022,Customer Service,Asia-Pacific,210,0.689,61.7,-21,64.9,58.1,54.0,50.9
+2022,Customer Service,Europe,590,0.783,68.0,-3,65.1,61.2,65.9,65.7
+2022,Customer Service,Latin America,142,0.86,64.8,-15,61.4,62.8,57.6,53.3
+2022,Customer Service,North America,336,0.831,69.4,-1,68.2,58.8,65.6,54.3
+2022,Executive & Strategy,Asia-Pacific,32,0.732,60.1,-23,64.7,55.2,52.6,53.4
+2022,Executive & Strategy,Europe,88,0.813,69.5,4,67.4,66.5,65.5,60.9
+2022,Executive & Strategy,Latin America,22,0.77,66.9,-5,62.6,59.3,60.7,53.9
+2022,Executive & Strategy,North America,50,0.779,74.5,12,78.3,66.1,80.1,65.0
+2022,Finance,Asia-Pacific,78,0.81,72.8,9,70.8,64.0,71.2,65.6
+2022,Finance,Europe,220,0.822,77.1,16,81.9,71.2,75.3,66.4
+2022,Finance,Latin America,53,0.794,79.1,33,79.6,77.7,77.0,75.8
+2022,Finance,North America,125,0.805,74.9,4,72.1,72.1,72.2,69.3
+2022,HR,Asia-Pacific,47,0.82,77.8,19,78.7,75.5,77.1,68.5
+2022,HR,Europe,132,0.793,73.1,8,73.9,64.3,70.9,62.0
+2022,HR,Latin America,32,0.844,74.6,19,81.2,69.7,69.0,68.9
+2022,HR,North America,75,0.787,74.8,11,70.9,63.8,76.0,62.5
+2022,IT & Digital,Asia-Pacific,177,0.766,72.3,7,69.4,68.0,70.0,64.5
+2022,IT & Digital,Europe,498,0.762,71.2,-5,74.1,63.6,63.1,63.1
+2022,IT & Digital,Latin America,120,0.798,77.6,22,82.1,70.0,74.1,70.3
+2022,IT & Digital,North America,283,0.834,70.6,0,72.2,65.4,64.1,65.0
+2022,Legal & Compliance,Asia-Pacific,47,0.787,80.2,15,85.2,73.6,74.2,70.3
+2022,Legal & Compliance,Europe,132,0.76,72.6,9,70.2,67.1,66.7,63.7
+2022,Legal & Compliance,Latin America,32,0.794,75.7,19,76.6,72.3,76.0,63.3
+2022,Legal & Compliance,North America,74,0.764,72.3,5,76.2,65.6,66.4,68.1
+2022,Operations,Asia-Pacific,125,0.8,73.6,21,71.6,62.7,68.9,62.2
+2022,Operations,Europe,352,0.75,74.8,10,75.8,66.3,65.1,64.6
+2022,Operations,Latin America,85,0.792,77.9,24,83.9,74.5,73.7,67.6
+2022,Operations,North America,200,0.86,74.0,16,77.8,65.6,71.8,68.1
+2022,Sales & Distribution,Asia-Pacific,344,0.717,75.0,10,76.4,69.3,69.1,68.5
+2022,Sales & Distribution,Europe,969,0.835,70.7,0,72.3,58.4,67.3,60.7
+2022,Sales & Distribution,Latin America,234,0.771,72.0,10,71.4,61.7,68.7,65.7
+2022,Sales & Distribution,North America,550,0.715,70.6,5,74.7,66.8,66.9,62.6
+2022,Underwriting,Asia-Pacific,156,0.82,79.6,21,77.4,75.5,77.8,69.8
+2022,Underwriting,Europe,440,0.828,70.8,1,74.3,61.5,63.8,57.7
+2022,Underwriting,Latin America,106,0.76,76.4,10,77.9,68.8,71.7,72.6
+2022,Underwriting,North America,250,0.805,77.1,17,74.5,69.1,72.0,72.9
+2023,Actuarial & Risk,Asia-Pacific,82,0.753,75.2,13,77.3,72.4,75.1,66.7
+2023,Actuarial & Risk,Europe,224,0.814,82.6,30,80.7,75.4,77.9,77.0
+2023,Actuarial & Risk,Latin America,54,0.752,78.6,19,80.4,68.3,76.3,68.3
+2023,Actuarial & Risk,North America,128,0.801,78.9,24,88.2,70.2,68.7,67.0
+2023,Claims,Asia-Pacific,294,0.726,78.7,27,79.1,74.9,70.1,73.8
+2023,Claims,Europe,758,0.733,63.8,-11,72.7,47.8,57.0,54.0
+2023,Claims,Latin America,196,0.83,77.8,28,77.6,71.1,69.6,68.2
+2023,Claims,North America,460,0.68,76.5,20,80.1,74.1,70.7,63.8
+2023,Customer Service,Asia-Pacific,212,0.728,69.5,-8,68.2,59.3,71.2,63.7
+2023,Customer Service,Europe,582,0.725,73.6,15,73.5,70.2,66.6,67.5
+2023,Customer Service,Latin America,141,0.771,67.5,-8,64.4,61.6,61.8,58.3
+2023,Customer Service,North America,332,0.845,73.0,7,77.8,70.0,71.2,69.7
+2023,Executive & Strategy,Asia-Pacific,32,0.846,71.4,5,71.2,64.9,70.4,67.0
+2023,Executive & Strategy,Europe,90,0.722,80.4,21,81.5,76.3,74.3,75.0
+2023,Executive & Strategy,Latin America,22,0.805,71.5,1,76.3,68.4,71.6,64.7
+2023,Executive & Strategy,North America,52,0.8,76.4,20,77.1,67.1,74.2,70.4
+2023,Finance,Asia-Pacific,82,0.745,77.5,14,79.5,72.0,78.7,66.8
+2023,Finance,Europe,225,0.769,79.1,25,76.4,73.1,73.5,70.7
+2023,Finance,Latin America,54,0.804,77.3,22,78.2,68.6,76.4,69.6
+2023,Finance,North America,128,0.849,75.3,15,78.5,64.3,69.5,73.4
+2023,HR,Asia-Pacific,49,0.804,77.3,16,77.9,72.4,73.1,68.9
+2023,HR,Europe,135,0.74,75.2,12,77.9,70.8,71.2,65.0
+2023,HR,Latin America,32,0.792,80.3,21,80.6,73.3,75.5,77.2
+2023,HR,North America,76,0.822,75.4,20,77.9,69.4,67.6,72.2
+2023,IT & Digital,Asia-Pacific,200,0.677,75.5,19,72.1,65.9,69.3,63.9
+2023,IT & Digital,Europe,551,0.788,71.6,6,74.7,65.4,66.3,61.9
+2023,IT & Digital,Latin America,132,0.819,81.1,27,82.9,71.4,78.5,69.8
+2023,IT & Digital,North America,312,0.765,80.0,15,82.8,73.7,73.5,69.7
+2023,Legal & Compliance,Asia-Pacific,49,0.768,74.7,14,75.9,70.3,71.2,62.3
+2023,Legal & Compliance,Europe,135,0.8,75.3,15,76.1,65.2,69.0,64.7
+2023,Legal & Compliance,Latin America,32,0.737,77.4,14,75.9,72.1,77.9,67.8
+2023,Legal & Compliance,North America,76,0.755,73.2,6,71.5,69.3,67.6,67.8
+2023,Operations,Asia-Pacific,130,0.864,74.9,13,75.9,65.3,74.6,67.7
+2023,Operations,Europe,361,0.78,78.4,20,77.8,73.4,72.0,69.9
+2023,Operations,Latin America,87,0.773,80.5,26,84.1,71.6,80.6,72.5
+2023,Operations,North America,204,0.773,73.9,7,77.0,66.6,72.1,60.2
+2023,Sales & Distribution,Asia-Pacific,359,0.808,73.5,11,74.7,69.8,71.8,65.5
+2023,Sales & Distribution,Europe,990,0.824,75.1,14,68.4,64.4,69.1,69.1
+2023,Sales & Distribution,Latin America,238,0.812,75.4,18,78.0,66.6,73.9,63.4
+2023,Sales & Distribution,North America,562,0.757,71.5,-5,77.4,72.5,66.9,62.3
+2023,Underwriting,Asia-Pacific,163,0.804,71.3,0,68.5,60.9,66.7,62.4
+2023,Underwriting,Europe,450,0.745,75.7,8,80.7,71.9,69.7,63.4
+2023,Underwriting,Latin America,108,0.81,77.0,20,78.6,74.3,71.1,73.0
+2023,Underwriting,North America,256,0.738,77.9,22,79.6,69.6,79.0,64.8
+2024,Actuarial & Risk,Asia-Pacific,85,0.796,80.4,24,81.4,78.1,72.9,69.0
+2024,Actuarial & Risk,Europe,230,0.802,75.0,17,77.5,65.4,74.1,68.9
+2024,Actuarial & Risk,Latin America,56,0.694,80.1,19,78.8,72.5,75.8,68.5
+2024,Actuarial & Risk,North America,130,0.796,77.1,10,74.3,70.9,75.0,69.6
+2024,Claims,Asia-Pacific,307,0.789,80.3,29,83.4,74.1,72.0,71.1
+2024,Claims,Europe,736,0.73,73.9,12,72.9,63.0,69.4,62.5
+2024,Claims,Latin America,200,0.643,78.7,15,79.2,73.0,74.5,74.7
+2024,Claims,North America,470,0.747,75.0,16,74.6,69.8,74.3,66.1
+2024,Customer Service,Asia-Pacific,214,0.743,72.7,8,75.1,69.4,70.3,70.3
+2024,Customer Service,Europe,578,0.781,71.7,3,76.2,65.7,66.6,59.6
+2024,Customer Service,Latin America,139,0.818,73.2,-2,70.7,64.3,66.6,65.1
+2024,Customer Service,North America,328,0.783,70.6,2,75.4,63.7,67.4,61.7
+2024,Executive & Strategy,Asia-Pacific,34,0.76,75.0,8,77.0,72.0,68.0,66.7
+2024,Executive & Strategy,Europe,92,0.673,72.9,15,78.1,70.3,71.7,62.3
+2024,Executive & Strategy,Latin America,22,0.774,70.5,1,70.5,63.0,69.2,64.6
+2024,Executive & Strategy,North America,52,0.752,75.5,23,78.7,69.6,67.4,62.7
+2024,Finance,Asia-Pacific,85,0.765,75.2,14,75.5,69.0,71.8,69.5
+2024,Finance,Europe,230,0.716,73.7,13,75.4,69.1,66.6,70.0
+2024,Finance,Latin America,56,0.766,78.3,18,79.8,72.7,73.9,75.0
+2024,Finance,North America,130,0.778,78.1,19,77.7,73.0,65.7,70.9
+2024,HR,Asia-Pacific,51,0.885,77.2,21,77.7,71.4,71.4,67.2
+2024,HR,Europe,138,0.681,76.9,18,73.0,68.8,70.8,71.0
+2024,HR,Latin America,33,0.851,79.4,23,79.8,73.6,75.9,74.8
+2024,HR,North America,78,0.78,78.8,31,82.5,78.3,74.7,72.6
+2024,IT & Digital,Asia-Pacific,224,0.79,76.1,12,77.9,65.9,73.3,73.3
+2024,IT & Digital,Europe,604,0.797,78.7,22,82.1,69.7,71.2,66.9
+2024,IT & Digital,Latin America,146,0.716,79.8,28,84.0,76.0,75.6,73.2
+2024,IT & Digital,North America,344,0.791,74.4,18,79.8,63.7,70.2,65.4
+2024,Legal & Compliance,Asia-Pacific,52,0.794,79.6,25,78.8,74.1,75.2,71.8
+2024,Legal & Compliance,Europe,138,0.72,74.6,14,77.0,69.3,71.4,70.3
+2024,Legal & Compliance,Latin America,33,0.863,69.4,1,73.0,63.6,62.4,58.0
+2024,Legal & Compliance,North America,78,0.787,75.4,16,69.6,68.8,71.7,66.3
+2024,Operations,Asia-Pacific,136,0.689,78.2,21,82.8,68.7,75.7,67.9
+2024,Operations,Europe,369,0.848,79.0,23,80.9,74.8,74.8,74.6
+2024,Operations,Latin America,89,0.762,72.1,-2,68.5,66.0,64.4,62.8
+2024,Operations,North America,209,0.805,80.2,41,80.8,74.3,68.7,72.0
+2024,Sales & Distribution,Asia-Pacific,374,0.802,72.0,5,71.0,60.1,70.2,61.8
+2024,Sales & Distribution,Europe,1011,0.797,70.8,-6,69.8,58.4,65.7,57.5
+2024,Sales & Distribution,Latin America,244,0.832,81.9,33,83.7,77.6,80.2,74.5
+2024,Sales & Distribution,North America,575,0.784,73.7,3,73.4,68.7,66.2,66.8
+2024,Underwriting,Asia-Pacific,170,0.895,76.1,14,78.4,71.7,72.3,68.9
+2024,Underwriting,Europe,460,0.783,77.2,19,80.5,74.8,73.0,73.3
+2024,Underwriting,Latin America,110,0.731,76.5,15,75.4,69.8,72.6,69.1
+2024,Underwriting,North America,262,0.817,78.4,20,81.0,72.2,76.7,74.1
+2025,Actuarial & Risk,Asia-Pacific,89,0.819,77.3,25,79.4,68.1,73.0,66.6
+2025,Actuarial & Risk,Europe,236,0.79,79.5,26,85.8,75.8,75.9,66.1
+2025,Actuarial & Risk,Latin America,56,0.746,78.3,21,75.6,74.2,78.1,69.2
+2025,Actuarial & Risk,North America,134,0.785,71.2,2,75.2,65.0,65.0,59.1
+2025,Claims,Asia-Pacific,319,0.663,76.8,13,80.0,70.3,72.7,68.1
+2025,Claims,Europe,762,0.76,74.4,13,76.9,65.2,70.6,69.1
+2025,Claims,Latin America,204,0.855,75.3,14,71.4,69.2,71.7,69.3
+2025,Claims,North America,481,0.856,78.0,23,79.6,70.4,73.3,73.9
+2025,Customer Service,Asia-Pacific,215,0.798,72.9,8,73.3,67.6,69.1,63.4
+2025,Customer Service,Europe,569,0.726,73.6,10,75.1,69.6,69.1,62.8
+2025,Customer Service,Latin America,138,0.729,67.3,-9,66.0,68.5,56.8,55.7
+2025,Customer Service,North America,324,0.77,73.4,3,76.3,73.7,69.5,68.0
+2025,Executive & Strategy,Asia-Pacific,35,0.751,68.9,-2,70.5,60.9,63.2,59.1
+2025,Executive & Strategy,Europe,94,0.753,76.3,14,78.6,66.0,73.8,73.5
+2025,Executive & Strategy,Latin America,22,0.757,78.6,19,78.0,69.0,75.3,70.3
+2025,Executive & Strategy,North America,54,0.793,84.0,40,89.5,80.9,88.3,79.5
+2025,Finance,Asia-Pacific,89,0.813,78.1,24,79.6,74.5,76.0,74.3
+2025,Finance,Europe,236,0.737,75.9,14,71.4,62.1,68.9,66.5
+2025,Finance,Latin America,56,0.841,66.4,-14,63.8,66.4,57.8,60.7
+2025,Finance,North America,133,0.654,76.7,21,76.8,71.9,73.4,69.8
+2025,HR,Asia-Pacific,53,0.891,79.8,27,80.4,76.6,77.3,64.3
+2025,HR,Europe,141,0.762,79.9,25,76.7,79.7,77.5,70.6
+2025,HR,Latin America,34,0.772,79.3,24,82.7,74.5,73.8,70.6
+2025,HR,North America,80,0.732,78.1,20,82.1,72.2,78.5,66.8
+2025,IT & Digital,Asia-Pacific,248,0.742,78.3,18,81.7,75.6,74.7,70.1
+2025,IT & Digital,Europe,660,0.864,81.1,21,82.1,69.3,72.7,71.4
+2025,IT & Digital,Latin America,159,0.814,76.7,16,77.2,70.6,78.1,69.8
+2025,IT & Digital,North America,375,0.81,77.8,26,79.2,71.9,77.9,70.6
+2025,Legal & Compliance,Asia-Pacific,53,0.721,77.2,17,79.9,69.1,77.9,70.7
+2025,Legal & Compliance,Europe,141,0.723,77.3,22,80.4,68.0,77.5,73.2
+2025,Legal & Compliance,Latin America,34,0.782,81.4,34,76.4,76.8,76.3,73.3
+2025,Legal & Compliance,North America,80,0.747,80.9,28,79.0,72.6,73.6,74.0
+2025,Operations,Asia-Pacific,142,0.733,80.3,20,80.7,75.5,77.1,68.8
+2025,Operations,Europe,376,0.738,76.9,16,77.6,69.7,74.3,67.4
+2025,Operations,Latin America,91,0.786,79.4,20,83.3,75.9,76.2,71.4
+2025,Operations,North America,214,0.823,77.5,19,81.0,69.9,75.0,66.6
+2025,Sales & Distribution,Asia-Pacific,389,0.809,74.1,9,76.2,62.6,69.8,65.4
+2025,Sales & Distribution,Europe,1034,0.778,73.9,14,80.6,68.2,72.5,70.9
+2025,Sales & Distribution,Latin America,250,0.835,76.6,16,78.9,67.8,75.3,70.0
+2025,Sales & Distribution,North America,587,0.691,75.1,18,80.8,73.4,72.7,71.3
+2025,Underwriting,Asia-Pacific,177,0.752,75.7,15,74.8,75.1,64.7,68.7
+2025,Underwriting,Europe,470,0.757,75.6,18,76.6,73.0,71.3,67.4
+2025,Underwriting,Latin America,114,0.844,77.0,16,77.2,69.5,71.8,65.5
+2025,Underwriting,North America,267,0.803,78.6,28,81.0,70.9,78.9,65.6
