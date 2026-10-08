@@ -4,7 +4,7 @@
 
 Un dashboard interactiv pentru un grup de asigurări fictiv, construit ca exercițiu de analiză a datelor: de la „ce s-a întâmplat” până la „ce facem”.
 
-**[Deschide dashboard-ul](https://[numele-tău].github.io/inavale-dashboard/)** · rulează direct în browser, fără instalare
+**[Deschide dashboard-ul](https://ina1311.github.io/inavale-dashboard/)** · rulează direct în browser, fără instalare
 
 ![Captură a dashboard-ului](captura.png)
 
