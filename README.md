@@ -4,7 +4,7 @@
 
 An interactive dashboard for a fictional insurance group, built as a data analysis exercise: from “what happened” to “what we do”.
 
-**[Open the dashboard](https://[your-name].github.io/inavale-dashboard/)** · runs directly in the browser, no installation needed
+**[Open the dashboard](https://ina1311.github.io/inavale-dashboard/)** · runs directly in the browser, no installation needed
 
 ![Screenshot of the dashboard](captura.png)
 
